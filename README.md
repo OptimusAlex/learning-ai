@@ -8,6 +8,7 @@ Plan: see `../LEARNING-PLAN.md` (based on the webridgeAI roadmap and LLM-from-sc
 |---|---|---|---|
 | 0 | Workbench: Python, git, editor, WSL | This repo + `LEARNING.md` | in progress |
 | 1 | Python + just enough maths | `stage1-*` script (e.g. spending chart from a CSV) | |
+| 1.5 | CS50 AI (lectures in my NotebookLM) | CS50 AI projects (search, logic, ML, NN, language) | |
 | 2 | ML foundations | Kaggle Titanic + model on my own data | |
 | 3 | Deep learning by hand | micrograd, makemore, own PyTorch loop | |
 | 4 | Transformers and my own LLM | Karpathy GPT, Raschka ch. 1–7, nanochat, a measured fine-tune | |
