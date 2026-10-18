@@ -273,6 +273,24 @@ $("skip-course").onclick = async () => {
   $("items").hidden = true;
   refresh();
 };
+// Theme toggle: starts from the saved choice, else the system setting.
+function isDark() {
+  const t = document.documentElement.dataset.theme;
+  return t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+}
+function paintThemeButton() {
+  $("theme").textContent = isDark() ? "☀️" : "🌙";
+  $("theme").title = isDark() ? "Switch to light" : "Switch to dark";
+}
+$("theme").onclick = () => {
+  const next = isDark() ? "light" : "dark";
+  document.documentElement.dataset.theme = next;
+  try { localStorage.setItem("theme", next); } catch (e) {}
+  paintThemeButton();
+};
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change", paintThemeButton);
+paintThemeButton();
+
 $("show-optional").onchange = (e) => { showOptional = e.target.checked; renderCourses(); };
 
 refresh().catch((e) => toast("Could not load: " + e.message, 0));

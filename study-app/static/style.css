@@ -3,13 +3,20 @@
   --primary: #2f6fed; --primary-text: #ffffff; --accent: #8a4fd8; --good: #1f8a4c; --bad: #c4372f;
   --chip: #eef2f8; --heat0: #e8ebf0; --heat1: #b9d3fb; --heat2: #6fa3f5; --heat3: #2f6fed;
 }
+/* Dark: follows the system unless the toggle chose light; or forced by the toggle. */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #12151b; --card: #1b2029; --text: #e7ebf2; --muted: #9aa5b4; --line: #2b323e;
     --primary: #5b8ff5; --primary-text: #0d1117; --accent: #b083f0; --good: #45c27a; --bad: #ef6b62;
     --chip: #242b36; --heat0: #252c37; --heat1: #22406f; --heat2: #2f60b0; --heat3: #5b8ff5;
   }
 }
+:root[data-theme="dark"] {
+  --bg: #12151b; --card: #1b2029; --text: #e7ebf2; --muted: #9aa5b4; --line: #2b323e;
+  --primary: #5b8ff5; --primary-text: #0d1117; --accent: #b083f0; --good: #45c27a; --bad: #ef6b62;
+  --chip: #242b36; --heat0: #252c37; --heat1: #22406f; --heat2: #2f60b0; --heat3: #5b8ff5;
+}
+#theme { padding: 4px 10px; font-size: 16px; line-height: 1; }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); color: var(--text);
   font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }

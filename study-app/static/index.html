@@ -5,6 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>My AI Cohort</title>
 <link rel="stylesheet" href="/static/style.css">
+<script>
+  // Apply the saved theme before the page paints, so it doesn't flash.
+  try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+</script>
 </head>
 <body>
 <header>
@@ -14,6 +18,7 @@
     <span id="minutes" title="Minutes studied today">⏱ 0 min today</span>
     <span id="date"></span>
   </div>
+  <button id="theme" title="Switch light / dark"></button>
 </header>
 
 <main>
