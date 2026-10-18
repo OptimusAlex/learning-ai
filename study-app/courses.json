@@ -967,6 +967,184 @@
    ]
   },
   {
+   "id": "ap28",
+   "num": "28",
+   "title": "AI Path 28 - Stanford CS229 Machine Learning (Andrew Ng 2018)",
+   "stage": "Stage 2 depth (optional)",
+   "notebook": "cb91cef6-2e66-4a04-a033-0dbbdfe343af",
+   "optional": true,
+   "items": [
+    {
+     "title": "Stanford CS229: Machine Learning Lecture 1 - Andrew Ng (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=jGwO_UgTS7I",
+     "duration": 4520,
+     "id": "ap28-000",
+     "youtube": "jGwO_UgTS7I",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS229: Machine Learning - Linear Regression and Gradient Descent |  Lecture 2 (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=4b4MUYve_U8",
+     "duration": 4697,
+     "id": "ap28-001",
+     "youtube": "4b4MUYve_U8",
+     "kind": "video"
+    },
+    {
+     "title": "Locally Weighted & Logistic Regression | Stanford CS229: Machine Learning - Lecture 3 (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=het9HFqo1TQ",
+     "duration": 4774,
+     "id": "ap28-002",
+     "youtube": "het9HFqo1TQ",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 4 - Perceptron & Generalized Linear Model | Stanford CS229: Machine Learning (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=iZTeva0WSTQ",
+     "duration": 4922,
+     "id": "ap28-003",
+     "youtube": "iZTeva0WSTQ",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 5 - GDA & Naive Bayes | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=nt63k3bfXS0",
+     "duration": 4732,
+     "id": "ap28-004",
+     "youtube": "nt63k3bfXS0",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 6 - Support Vector Machines | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=lDwow4aOrtg",
+     "duration": 4857,
+     "id": "ap28-005",
+     "youtube": "lDwow4aOrtg",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 7 - Kernels | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=8NYoQiRANpg",
+     "duration": 4825,
+     "id": "ap28-006",
+     "youtube": "8NYoQiRANpg",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 8 - Data Splits, Models & Cross-Validation | Stanford CS229: Machine Learning (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=rjbkWSTjHzM",
+     "duration": 5006,
+     "id": "ap28-007",
+     "youtube": "rjbkWSTjHzM",
+     "kind": "video"
+    },
+    {
+     "title": "Discussion Section: Learning Theory | Stanford CS229: Machine Learning (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=iVOxMcumR4A",
+     "duration": 5163,
+     "id": "ap28-008",
+     "youtube": "iVOxMcumR4A",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 9 - Decision Trees and Ensemble Methods | Stanford CS229: Machine Learning (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=wr9gUr-eWdA",
+     "duration": 4841,
+     "id": "ap28-009",
+     "youtube": "wr9gUr-eWdA",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 10 - Introduction to Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=MfIjxPh6Pys",
+     "duration": 4814,
+     "id": "ap28-010",
+     "youtube": "MfIjxPh6Pys",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 11 - Backprop & Improving Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=zUazLXZZA2U",
+     "duration": 4598,
+     "id": "ap28-011",
+     "youtube": "zUazLXZZA2U",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 12 - Debugging ML Models and Error Analysis | Stanford CS229: Machine Learning (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=ORrStCArmP4",
+     "duration": 4735,
+     "id": "ap28-012",
+     "youtube": "ORrStCArmP4",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 13 - Expectation-Maximization Algorithms | Stanford CS229: Machine Learning (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=rVfZHWTwXSA",
+     "duration": 4831,
+     "id": "ap28-013",
+     "youtube": "rVfZHWTwXSA",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 14 - EM Algorithm & Factor Analysis | Stanford CS229: Machine Learning Andrew Ng -Autumn2018",
+     "url": "https://www.youtube.com/watch?v=tw6cmL5STuY",
+     "duration": 4788,
+     "id": "ap28-014",
+     "youtube": "tw6cmL5STuY",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 15 - PCA and ICA | Stanford CS229: Machine Learning Andrew Ng - Autumn 2018",
+     "url": "https://www.youtube.com/watch?v=dyb_cFywuik",
+     "duration": 4715,
+     "id": "ap28-015",
+     "youtube": "dyb_cFywuik",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 16 - Independent Component Analysis & RL | Stanford CS229: Machine Learning (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=YQA9lLdLig8",
+     "duration": 4690,
+     "id": "ap28-016",
+     "youtube": "YQA9lLdLig8",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 17 - MDPs & Value/Policy Iteration | Stanford CS229: Machine Learning Andrew Ng (Autumn2018)",
+     "url": "https://www.youtube.com/watch?v=d5gaWTo6kDM",
+     "duration": 4754,
+     "id": "ap28-017",
+     "youtube": "d5gaWTo6kDM",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 18 - Continous State MDP & Model Simulation | Stanford CS229: Machine Learning (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=QFu5nuc-S0s",
+     "duration": 4815,
+     "id": "ap28-018",
+     "youtube": "QFu5nuc-S0s",
+     "kind": "video"
+    },
+    {
+     "title": "Lecture 19 - Reward Model & Linear Dynamical System | Stanford CS229: Machine Learning (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=0rt2CsEQv6U",
+     "duration": 4867,
+     "id": "ap28-019",
+     "youtube": "0rt2CsEQv6U",
+     "kind": "video"
+    },
+    {
+     "title": "RL Debugging and Diagnostics | Stanford CS229: Machine Learning Andrew Ng - Lecture 20 (Autumn 2018)",
+     "url": "https://www.youtube.com/watch?v=pLhPQynL0tY",
+     "duration": 4363,
+     "id": "ap28-020",
+     "youtube": "pLhPQynL0tY",
+     "kind": "video"
+    }
+   ]
+  },
+  {
    "id": "ap04",
    "num": "04",
    "title": "AI Path 04 - Deep Learning (100 Days of Deep Learning)",
@@ -1680,6 +1858,354 @@
      "duration": 6980,
      "id": "ap11-000",
      "youtube": "kCc8FmEb1nY",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap26",
+   "num": "26",
+   "title": "AI Path 26 - Stanford CS224N NLP with Deep Learning (2023)",
+   "stage": "Stage 4 (theory)",
+   "notebook": "6bd9df8c-480d-4341-a721-22a5e815d5ba",
+   "optional": false,
+   "items": [
+    {
+     "title": "Stanford CS224N: NLP with Deep Learning | Winter 2021 | Lecture 1 - Intro & Word Vectors",
+     "url": "https://www.youtube.com/watch?v=rmVRLeJRkl4",
+     "duration": 5067,
+     "id": "ap26-000",
+     "youtube": "rmVRLeJRkl4",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 2 - Neural Classifiers",
+     "url": "https://www.youtube.com/watch?v=gqaHkPEZAew",
+     "duration": 4518,
+     "id": "ap26-001",
+     "youtube": "gqaHkPEZAew",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 3 - Backprop and Neural Networks",
+     "url": "https://www.youtube.com/watch?v=X0Jw4kgaFlg",
+     "duration": 4949,
+     "id": "ap26-002",
+     "youtube": "X0Jw4kgaFlg",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N - NLP w/ DL | Winter 2021 | Lecture 4 - Syntactic Structure and Dependency Parsing",
+     "url": "https://www.youtube.com/watch?v=PSGIodTN3KE",
+     "duration": 4882,
+     "id": "ap26-003",
+     "youtube": "PSGIodTN3KE",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N -  NLP w/ DL | Winter 2021 | Lecture 5 - Recurrent Neural networks (RNNs)",
+     "url": "https://www.youtube.com/watch?v=PLryWeHPcBs",
+     "duration": 4758,
+     "id": "ap26-004",
+     "youtube": "PLryWeHPcBs",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 6 - Simple and LSTM RNNs",
+     "url": "https://www.youtube.com/watch?v=0LixFSa7yts",
+     "duration": 4898,
+     "id": "ap26-005",
+     "youtube": "0LixFSa7yts",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 7 - Translation, Seq2Seq, Attention",
+     "url": "https://www.youtube.com/watch?v=wzfWHP6SXxY",
+     "duration": 4735,
+     "id": "ap26-006",
+     "youtube": "wzfWHP6SXxY",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 8 - Self-Attention and Transformers",
+     "url": "https://www.youtube.com/watch?v=LWMzyfvuehA",
+     "duration": 4624,
+     "id": "ap26-007",
+     "youtube": "LWMzyfvuehA",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 9 - Pretraining",
+     "url": "https://www.youtube.com/watch?v=DGfCRXuNA2w",
+     "duration": 4726,
+     "id": "ap26-008",
+     "youtube": "DGfCRXuNA2w",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N | 2023 | Lecture 10 - Prompting, Reinforcement Learning from Human Feedback",
+     "url": "https://www.youtube.com/watch?v=SXpJ9EmG3s4",
+     "duration": 4575,
+     "id": "ap26-009",
+     "youtube": "SXpJ9EmG3s4",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 11 - Natural Language Generation",
+     "url": "https://www.youtube.com/watch?v=N9L32bFieEY",
+     "duration": 4705,
+     "id": "ap26-010",
+     "youtube": "N9L32bFieEY",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 12 - Question Answering",
+     "url": "https://www.youtube.com/watch?v=NcqfHa0_YmU",
+     "duration": 6713,
+     "id": "ap26-011",
+     "youtube": "NcqfHa0_YmU",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 13 - Coreference Resolution",
+     "url": "https://www.youtube.com/watch?v=FFRnDRcbQQU",
+     "duration": 4906,
+     "id": "ap26-012",
+     "youtube": "FFRnDRcbQQU",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 14 - Insights between NLP and Linguistics",
+     "url": "https://www.youtube.com/watch?v=NvIWF82Fw4E",
+     "duration": 4772,
+     "id": "ap26-013",
+     "youtube": "NvIWF82Fw4E",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 15 - Add Knowledge to Language Models",
+     "url": "https://www.youtube.com/watch?v=y68RJVfGoto",
+     "duration": 4645,
+     "id": "ap26-014",
+     "youtube": "y68RJVfGoto",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 15 - Code Generation",
+     "url": "https://www.youtube.com/watch?v=JlK46EzImM8",
+     "duration": 4677,
+     "id": "ap26-015",
+     "youtube": "JlK46EzImM8",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 17 - Model Analysis and Explanation",
+     "url": "https://www.youtube.com/watch?v=f_qmSSBWV_E",
+     "duration": 4631,
+     "id": "ap26-016",
+     "youtube": "f_qmSSBWV_E",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 18 - Future of NLP + Deep Learning",
+     "url": "https://www.youtube.com/watch?v=2t7Q9WVUaf8",
+     "duration": 4806,
+     "id": "ap26-017",
+     "youtube": "2t7Q9WVUaf8",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | 2023 | Python Tutorial, Manasi Sharma",
+     "url": "https://www.youtube.com/watch?v=8j4wpU98Q74",
+     "duration": 2834,
+     "id": "ap26-018",
+     "youtube": "8j4wpU98Q74",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | 2023 | PyTorch Tutorial,  Drew Kaul",
+     "url": "https://www.youtube.com/watch?v=Uv0AIRr3ptg",
+     "duration": 2821,
+     "id": "ap26-019",
+     "youtube": "Uv0AIRr3ptg",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | 2023 | Hugging Face Tutorial, Eric Frankel",
+     "url": "https://www.youtube.com/watch?v=b80by3Xk_A8",
+     "duration": 2877,
+     "id": "ap26-020",
+     "youtube": "b80by3Xk_A8",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 16 - Multimodal Deep Learning, Douwe Kiela",
+     "url": "https://www.youtube.com/watch?v=5vfIT5LOkR0",
+     "duration": 4703,
+     "id": "ap26-021",
+     "youtube": "5vfIT5LOkR0",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lec. 19 - Model Interpretability & Editing, Been Kim",
+     "url": "https://www.youtube.com/watch?v=cd3pRpEtjLs",
+     "duration": 4302,
+     "id": "ap26-022",
+     "youtube": "cd3pRpEtjLs",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap27",
+   "num": "27",
+   "title": "AI Path 27 - Stanford CS336 Language Modeling from Scratch (2026)",
+   "stage": "Stage 4 (core)",
+   "notebook": "2134aebd-50c2-4434-a497-d30d1434d987",
+   "optional": false,
+   "items": [
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 1: Overview, Tokenization",
+     "url": "https://www.youtube.com/watch?v=JuoVZkPBiKk",
+     "duration": 4762,
+     "id": "ap27-000",
+     "youtube": "JuoVZkPBiKk",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 2: PyTorch (einops)",
+     "url": "https://www.youtube.com/watch?v=kuYAsz7zspQ",
+     "duration": 4645,
+     "id": "ap27-001",
+     "youtube": "kuYAsz7zspQ",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 3: Architectures",
+     "url": "https://www.youtube.com/watch?v=lVynu4bo1rY",
+     "duration": 5354,
+     "id": "ap27-002",
+     "youtube": "lVynu4bo1rY",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 4: Attention Alternatives",
+     "url": "https://www.youtube.com/watch?v=cKSwj_qZ8Jg",
+     "duration": 5181,
+     "id": "ap27-003",
+     "youtube": "cKSwj_qZ8Jg",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 5: GPUs, TPUs",
+     "url": "https://www.youtube.com/watch?v=izZba4UA7iY",
+     "duration": 4719,
+     "id": "ap27-004",
+     "youtube": "izZba4UA7iY",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 6: Kernels, Triton, XLA",
+     "url": "https://www.youtube.com/watch?v=xnDHaNUvHBg",
+     "duration": 5201,
+     "id": "ap27-005",
+     "youtube": "xnDHaNUvHBg",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 7: Parallelism",
+     "url": "https://www.youtube.com/watch?v=SzpOcwdIL0Y",
+     "duration": 4863,
+     "id": "ap27-006",
+     "youtube": "SzpOcwdIL0Y",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 8: Parallelism",
+     "url": "https://www.youtube.com/watch?v=6-cXp-aOmdg",
+     "duration": 4811,
+     "id": "ap27-007",
+     "youtube": "6-cXp-aOmdg",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 9: Scaling Laws",
+     "url": "https://www.youtube.com/watch?v=Q15rhEWZPQ4",
+     "duration": 4677,
+     "id": "ap27-008",
+     "youtube": "Q15rhEWZPQ4",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 10: Inference",
+     "url": "https://www.youtube.com/watch?v=EfM546A79aM",
+     "duration": 5130,
+     "id": "ap27-009",
+     "youtube": "EfM546A79aM",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 11:  Scaling Laws",
+     "url": "https://www.youtube.com/watch?v=vTfEyOyzV9E",
+     "duration": 4624,
+     "id": "ap27-010",
+     "youtube": "vTfEyOyzV9E",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 12: Evaluation",
+     "url": "https://www.youtube.com/watch?v=JpAxdTWQJxM",
+     "duration": 4714,
+     "id": "ap27-011",
+     "youtube": "JpAxdTWQJxM",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 13: Data (Sources, Datasets)",
+     "url": "https://www.youtube.com/watch?v=-qm0ln33G24",
+     "duration": 4922,
+     "id": "ap27-012",
+     "youtube": "-qm0ln33G24",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 14: Data",
+     "url": "https://www.youtube.com/watch?v=5sxHosTLPF8",
+     "duration": 5086,
+     "id": "ap27-013",
+     "youtube": "5sxHosTLPF8",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 15: Mid/Post-Training",
+     "url": "https://www.youtube.com/watch?v=2oH6PWPrYFo",
+     "duration": 4795,
+     "id": "ap27-014",
+     "youtube": "2oH6PWPrYFo",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 16: Post-Training - RLVR",
+     "url": "https://www.youtube.com/watch?v=dIFAi87Ws4E",
+     "duration": 4551,
+     "id": "ap27-015",
+     "youtube": "dIFAi87Ws4E",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 17: Alignment - Multimodality",
+     "url": "https://www.youtube.com/watch?v=26FtD08ZpOU",
+     "duration": 4660,
+     "id": "ap27-016",
+     "youtube": "26FtD08ZpOU",
+     "kind": "video"
+    },
+    {
+     "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Guest Lecture: Dan Fu",
+     "url": "https://www.youtube.com/watch?v=9EEm4iMAF5s",
+     "duration": 4301,
+     "id": "ap27-017",
+     "youtube": "9EEm4iMAF5s",
      "kind": "video"
     }
    ]
