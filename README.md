@@ -14,6 +14,17 @@ Plan: see `../LEARNING-PLAN.md` (based on the webridgeAI roadmap and LLM-from-sc
 | 4 | Transformers and my own LLM | Karpathy GPT, Raschka ch. 1–7, nanochat, a measured fine-tune | |
 | 5 | AI applications | notes chat (RAG), 2-tool agent, eval harness, shipped app | |
 
+## My AI Cohort (study app)
+
+A small local web app (`study-app/`, FastAPI) over all my courses: CS50P, CS50 AI and AI Path 01 to 25.
+
+- **Start:** double-click `Start Study.bat` (or the desktop shortcut). It opens http://localhost:8000.
+- **Plays** today's video and **resumes** where I stopped.
+- **Quiz me:** 5 questions from the course's NotebookLM notebook (needs `nlm` logged in).
+- **Journal:** appends to `LEARNING.md`.
+- **Finish for today:** commits and pushes everything to GitHub.
+- Progress lives in `progress/`. To rebuild the course list: `python study-app/tools/build_catalog.py`.
+
 ## Layout
 
 One folder per stage (`stage1/`, `stage2/`, ...). Each project gets its own subfolder with a short README saying what it does and how I measured it.

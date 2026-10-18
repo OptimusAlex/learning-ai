@@ -1,0 +1,2906 @@
+{
+ "courses": [
+  {
+   "id": "cs50p",
+   "num": null,
+   "title": "CS50P - Introduction to Programming with Python",
+   "stage": "Stage 1",
+   "notebook": "2ab989ec-5498-499e-a93e-9fc98d7b8298",
+   "optional": false,
+   "items": [
+    {
+     "title": "CS50P - Lecture 0 - Functions, Variables",
+     "url": "https://www.youtube.com/watch?v=JP7ITIXGpHk",
+     "duration": 6338,
+     "id": "cs50p-000",
+     "youtube": "JP7ITIXGpHk",
+     "kind": "video"
+    },
+    {
+     "title": "CS50P - Lecture 1 - Conditionals",
+     "url": "https://www.youtube.com/watch?v=_b6NgY_pMdw",
+     "duration": 3368,
+     "id": "cs50p-001",
+     "youtube": "_b6NgY_pMdw",
+     "kind": "video"
+    },
+    {
+     "title": "CS50P - Lecture 2 - Loops",
+     "url": "https://www.youtube.com/watch?v=-7xg8pGcP6w",
+     "duration": 4847,
+     "id": "cs50p-002",
+     "youtube": "-7xg8pGcP6w",
+     "kind": "video"
+    },
+    {
+     "title": "CS50P - Lecture 3 - Exceptions",
+     "url": "https://www.youtube.com/watch?v=LW7g1169v7w",
+     "duration": 2676,
+     "id": "cs50p-003",
+     "youtube": "LW7g1169v7w",
+     "kind": "video"
+    },
+    {
+     "title": "CS50P - Lecture 4 - Libraries",
+     "url": "https://www.youtube.com/watch?v=MztLZWibctI",
+     "duration": 4648,
+     "id": "cs50p-004",
+     "youtube": "MztLZWibctI",
+     "kind": "video"
+    },
+    {
+     "title": "CS50P - Lecture 5 - Unit Tests",
+     "url": "https://www.youtube.com/watch?v=tIrcxwLqzjQ",
+     "duration": 3054,
+     "id": "cs50p-005",
+     "youtube": "tIrcxwLqzjQ",
+     "kind": "video"
+    },
+    {
+     "title": "CS50P - Lecture 6 - File I/O",
+     "url": "https://www.youtube.com/watch?v=KD-Yoel6EVQ",
+     "duration": 5545,
+     "id": "cs50p-006",
+     "youtube": "KD-Yoel6EVQ",
+     "kind": "video"
+    },
+    {
+     "title": "CS50P - Lecture 7 - Regular Expressions",
+     "url": "https://www.youtube.com/watch?v=hy3sd9MOAcc",
+     "duration": 7500,
+     "id": "cs50p-007",
+     "youtube": "hy3sd9MOAcc",
+     "kind": "video"
+    },
+    {
+     "title": "CS50P - Lecture 8 - Object-Oriented Programming",
+     "url": "https://www.youtube.com/watch?v=e4fwY9ZsxPw",
+     "duration": 10061,
+     "id": "cs50p-008",
+     "youtube": "e4fwY9ZsxPw",
+     "kind": "video"
+    },
+    {
+     "title": "CS50P - Lecture 9 - Et Cetera",
+     "url": "https://www.youtube.com/watch?v=6pgodt1mezg",
+     "duration": 8944,
+     "id": "cs50p-009",
+     "youtube": "6pgodt1mezg",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "cs50ai",
+   "num": null,
+   "title": "CS50 AI - Introduction to AI with Python",
+   "stage": "Stage 1.5",
+   "notebook": "5f35773b-6bbf-4051-9a20-efba0791561a",
+   "optional": false,
+   "items": [
+    {
+     "title": "Search - Lecture 0 - CS50's Introduction to Artificial Intelligence with Python 2020",
+     "url": "https://www.youtube.com/watch?v=WbzNRTTrX0g",
+     "duration": 6569,
+     "id": "cs50ai-000",
+     "youtube": "WbzNRTTrX0g",
+     "kind": "video"
+    },
+    {
+     "title": "Knowledge - Lecture 1 - CS50's Introduction to Artificial Intelligence with Python 2020",
+     "url": "https://www.youtube.com/watch?v=HWQLez87vqM",
+     "duration": 6464,
+     "id": "cs50ai-001",
+     "youtube": "HWQLez87vqM",
+     "kind": "video"
+    },
+    {
+     "title": "Uncertainty - Lecture 2 - CS50's Introduction to Artificial Intelligence with Python 2020",
+     "url": "https://www.youtube.com/watch?v=D8RRq3TbtHU",
+     "duration": 6869,
+     "id": "cs50ai-002",
+     "youtube": "D8RRq3TbtHU",
+     "kind": "video"
+    },
+    {
+     "title": "Optimization - Lecture 3 - CS50's Introduction to Artificial Intelligence with Python 2020",
+     "url": "https://www.youtube.com/watch?v=qK46ET1xk2A",
+     "duration": 6284,
+     "id": "cs50ai-003",
+     "youtube": "qK46ET1xk2A",
+     "kind": "video"
+    },
+    {
+     "title": "Learning - Lecture 4 - CS50's Introduction to Artificial Intelligence with Python 2020",
+     "url": "https://www.youtube.com/watch?v=-g0iJjnO2_w",
+     "duration": 6348,
+     "id": "cs50ai-004",
+     "youtube": "-g0iJjnO2_w",
+     "kind": "video"
+    },
+    {
+     "title": "Neural Networks - Lecture 5 - CS50's Introduction to Artificial Intelligence with Python 2020",
+     "url": "https://www.youtube.com/watch?v=J1QD9hLDEDY",
+     "duration": 6079,
+     "id": "cs50ai-005",
+     "youtube": "J1QD9hLDEDY",
+     "kind": "video"
+    },
+    {
+     "title": "Language - Lecture 6 - CS50's Introduction to Artificial Intelligence with Python 2023",
+     "url": "https://www.youtube.com/watch?v=QAZc9xsQNjQ",
+     "duration": 3921,
+     "id": "cs50ai-006",
+     "youtube": "QAZc9xsQNjQ",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap03",
+   "num": "03",
+   "title": "AI Path 03 - Machine Learning (100 Days of ML, CampusX)",
+   "stage": "Stage 2",
+   "notebook": "780af282-6a73-4ee0-8ddb-cec894b3639b",
+   "optional": false,
+   "items": [
+    {
+     "title": "What is Machine Learning? | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=ZftI2fEz0Fw",
+     "duration": 1200,
+     "id": "ap03-000",
+     "youtube": "ZftI2fEz0Fw",
+     "kind": "video"
+    },
+    {
+     "title": "AI Vs ML Vs DL for Beginners in Hindi",
+     "url": "https://www.youtube.com/watch?v=1v3_AQ26jZ0",
+     "duration": 962,
+     "id": "ap03-001",
+     "youtube": "1v3_AQ26jZ0",
+     "kind": "video"
+    },
+    {
+     "title": "Types of Machine Learning for Beginners | Types of Machine learning in Hindi | Types of ML in Depth",
+     "url": "https://www.youtube.com/watch?v=81ymPYEtFOw",
+     "duration": 1662,
+     "id": "ap03-002",
+     "youtube": "81ymPYEtFOw",
+     "kind": "video"
+    },
+    {
+     "title": "Batch Machine Learning | Offline Vs Online Learning | Machine Learning Types",
+     "url": "https://www.youtube.com/watch?v=nPrhFxEuTYU",
+     "duration": 688,
+     "id": "ap03-003",
+     "youtube": "nPrhFxEuTYU",
+     "kind": "video"
+    },
+    {
+     "title": "Online Machine Learning | Online Learning | Online Vs Offline Machine Learning",
+     "url": "https://www.youtube.com/watch?v=3oOipgCbLIk",
+     "duration": 1168,
+     "id": "ap03-004",
+     "youtube": "3oOipgCbLIk",
+     "kind": "video"
+    },
+    {
+     "title": "Instance-Based Vs Model-Based Learning | Types of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=ntAOq1ioTKo",
+     "duration": 1004,
+     "id": "ap03-005",
+     "youtube": "ntAOq1ioTKo",
+     "kind": "video"
+    },
+    {
+     "title": "Challenges in Machine Learning | Problems in Machine Learning",
+     "url": "https://www.youtube.com/watch?v=WGUNAJki2S4",
+     "duration": 1420,
+     "id": "ap03-006",
+     "youtube": "WGUNAJki2S4",
+     "kind": "video"
+    },
+    {
+     "title": "Application of Machine Learning | Real Life Machine Learning Applications",
+     "url": "https://www.youtube.com/watch?v=UZio8TcTMrI",
+     "duration": 1742,
+     "id": "ap03-007",
+     "youtube": "UZio8TcTMrI",
+     "kind": "video"
+    },
+    {
+     "title": "Machine Learning Development Life Cycle | MLDLC in Data Science",
+     "url": "https://www.youtube.com/watch?v=iDbhQGz_rEo",
+     "duration": 1513,
+     "id": "ap03-008",
+     "youtube": "iDbhQGz_rEo",
+     "kind": "video"
+    },
+    {
+     "title": "Data Engineer Vs Data Analyst Vs Data Scientist Vs ML Engineer | Data Science Job Roles",
+     "url": "https://www.youtube.com/watch?v=93rKZs0MkgU",
+     "duration": 1583,
+     "id": "ap03-009",
+     "youtube": "93rKZs0MkgU",
+     "kind": "video"
+    },
+    {
+     "title": "What are Tensors | Tensor In-depth Explanation | Tensor in Machine Learning",
+     "url": "https://www.youtube.com/watch?v=vVhD2EyS41Y",
+     "duration": 2489,
+     "id": "ap03-010",
+     "youtube": "vVhD2EyS41Y",
+     "kind": "video"
+    },
+    {
+     "title": "Installing Anaconda For Data Science | Jupyter Notebook for Machine Learning | Google Colab for ML",
+     "url": "https://www.youtube.com/watch?v=82P5N2m41jE",
+     "duration": 2226,
+     "id": "ap03-011",
+     "youtube": "82P5N2m41jE",
+     "kind": "video"
+    },
+    {
+     "title": "End to End Toy Project | Day 13 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=dr7z7a_8lQw",
+     "duration": 1843,
+     "id": "ap03-012",
+     "youtube": "dr7z7a_8lQw",
+     "kind": "video"
+    },
+    {
+     "title": "How to Frame a Machine Learning Problem | How to plan a Data Science Project Effectively",
+     "url": "https://www.youtube.com/watch?v=A9SezQlvakw",
+     "duration": 1342,
+     "id": "ap03-013",
+     "youtube": "A9SezQlvakw",
+     "kind": "video"
+    },
+    {
+     "title": "Working with CSV files | Day 15 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=a_XrmKlaGTs",
+     "duration": 2190,
+     "id": "ap03-014",
+     "youtube": "a_XrmKlaGTs",
+     "kind": "video"
+    },
+    {
+     "title": "Working with JSON/SQL | Day 16 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=fFwRC-fapIU",
+     "duration": 1020,
+     "id": "ap03-015",
+     "youtube": "fFwRC-fapIU",
+     "kind": "video"
+    },
+    {
+     "title": "Fetching Data From an API | Day 17 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=roTZJaxjnJc",
+     "duration": 1370,
+     "id": "ap03-016",
+     "youtube": "roTZJaxjnJc",
+     "kind": "video"
+    },
+    {
+     "title": "Fetching data using Web Scraping | Day 18 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=8NOdgjC1988",
+     "duration": 2269,
+     "id": "ap03-017",
+     "youtube": "8NOdgjC1988",
+     "kind": "video"
+    },
+    {
+     "title": "Understanding Your Data | Day 19 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=mJlRTUuVr04",
+     "duration": 923,
+     "id": "ap03-018",
+     "youtube": "mJlRTUuVr04",
+     "kind": "video"
+    },
+    {
+     "title": "EDA using Univariate Analysis | Day 20 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=4HyTlbHUKSw",
+     "duration": 1831,
+     "id": "ap03-019",
+     "youtube": "4HyTlbHUKSw",
+     "kind": "video"
+    },
+    {
+     "title": "EDA using Bivariate and Multivariate Analysis | Day 21 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=6D3VtEfCw7w",
+     "duration": 2283,
+     "id": "ap03-020",
+     "youtube": "6D3VtEfCw7w",
+     "kind": "video"
+    },
+    {
+     "title": "Pandas Profiling | Day 22 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=E69Lg2ZgOxg",
+     "duration": 784,
+     "id": "ap03-021",
+     "youtube": "E69Lg2ZgOxg",
+     "kind": "video"
+    },
+    {
+     "title": "What is Feature Engineering | Day 23 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=sluoVhT0ehg",
+     "duration": 1492,
+     "id": "ap03-022",
+     "youtube": "sluoVhT0ehg",
+     "kind": "video"
+    },
+    {
+     "title": "Feature Scaling - Standardization | Day 24 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=1Yw9sC0PNwY",
+     "duration": 1958,
+     "id": "ap03-023",
+     "youtube": "1Yw9sC0PNwY",
+     "kind": "video"
+    },
+    {
+     "title": "Feature Scaling - Normalization | MinMaxScaling | MaxAbsScaling | RobustScaling",
+     "url": "https://www.youtube.com/watch?v=eBrGyuA2MIg",
+     "duration": 1411,
+     "id": "ap03-024",
+     "youtube": "eBrGyuA2MIg",
+     "kind": "video"
+    },
+    {
+     "title": "Encoding Categorical Data | Ordinal Encoding | Label Encoding",
+     "url": "https://www.youtube.com/watch?v=w2GglmYHfmM",
+     "duration": 1193,
+     "id": "ap03-025",
+     "youtube": "w2GglmYHfmM",
+     "kind": "video"
+    },
+    {
+     "title": "One Hot Encoding | Handling Categorical Data | Day 27 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=U5oCv3JKWKA",
+     "duration": 1812,
+     "id": "ap03-026",
+     "youtube": "U5oCv3JKWKA",
+     "kind": "video"
+    },
+    {
+     "title": "Column Transformer in Machine Learning | How to use ColumnTransformer in Sklearn",
+     "url": "https://www.youtube.com/watch?v=5TVj6iEBR4I",
+     "duration": 941,
+     "id": "ap03-027",
+     "youtube": "5TVj6iEBR4I",
+     "kind": "video"
+    },
+    {
+     "title": "Machine Learning Pipelines A-Z | Day 29 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=xOccYkgRV4Q",
+     "duration": 2739,
+     "id": "ap03-028",
+     "youtube": "xOccYkgRV4Q",
+     "kind": "video"
+    },
+    {
+     "title": "Function Transformer | Log Transform | Reciprocal Transform | Square Root Transform",
+     "url": "https://www.youtube.com/watch?v=cTjj3LE8E90",
+     "duration": 1933,
+     "id": "ap03-029",
+     "youtube": "cTjj3LE8E90",
+     "kind": "video"
+    },
+    {
+     "title": "Power Transformer | Box - Cox Transform | Yeo - Johnson Transform",
+     "url": "https://www.youtube.com/watch?v=lV_Z4HbNAx0",
+     "duration": 1288,
+     "id": "ap03-030",
+     "youtube": "lV_Z4HbNAx0",
+     "kind": "video"
+    },
+    {
+     "title": "Binning and Binarization | Discretization | Quantile Binning | KMeans Binning",
+     "url": "https://www.youtube.com/watch?v=kKWsJGKcMvo",
+     "duration": 2305,
+     "id": "ap03-031",
+     "youtube": "kKWsJGKcMvo",
+     "kind": "video"
+    },
+    {
+     "title": "Handling Mixed Variables | Feature Engineering",
+     "url": "https://www.youtube.com/watch?v=9xiX-I5_LQY",
+     "duration": 730,
+     "id": "ap03-032",
+     "youtube": "9xiX-I5_LQY",
+     "kind": "video"
+    },
+    {
+     "title": "Handling Date and Time Variables | Day 34 | 100 Days of Machine Learning",
+     "url": "https://www.youtube.com/watch?v=J73mvgG9fFs",
+     "duration": 858,
+     "id": "ap03-033",
+     "youtube": "J73mvgG9fFs",
+     "kind": "video"
+    },
+    {
+     "title": "Handling Missing Data | Part 1 | Complete Case Analysis",
+     "url": "https://www.youtube.com/watch?v=aUnNWZorGmk",
+     "duration": 1494,
+     "id": "ap03-034",
+     "youtube": "aUnNWZorGmk",
+     "kind": "video"
+    },
+    {
+     "title": "Handling missing data | Numerical Data | Simple Imputer",
+     "url": "https://www.youtube.com/watch?v=mCL2xLBDw8M",
+     "duration": 1881,
+     "id": "ap03-035",
+     "youtube": "mCL2xLBDw8M",
+     "kind": "video"
+    },
+    {
+     "title": "Handling Missing Categorical Data | Simple Imputer | Most Frequent Imputation | Missing Category Imp",
+     "url": "https://www.youtube.com/watch?v=l_Wip8bEDFQ",
+     "duration": 814,
+     "id": "ap03-036",
+     "youtube": "l_Wip8bEDFQ",
+     "kind": "video"
+    },
+    {
+     "title": "Missing Indicator | Random Sample Imputation | Handling Missing Data Part 4",
+     "url": "https://www.youtube.com/watch?v=Ratcir3p03w",
+     "duration": 2225,
+     "id": "ap03-037",
+     "youtube": "Ratcir3p03w",
+     "kind": "video"
+    },
+    {
+     "title": "KNN Imputer | Multivariate Imputation | Handling Missing Data Part 5",
+     "url": "https://www.youtube.com/watch?v=-fK-xEev2I8",
+     "duration": 1467,
+     "id": "ap03-038",
+     "youtube": "-fK-xEev2I8",
+     "kind": "video"
+    },
+    {
+     "title": "Multivariate Imputation by Chained Equations for Missing Value | MICE Algorithm | Iterative Imputer",
+     "url": "https://www.youtube.com/watch?v=a38ehxv3kyk",
+     "duration": 1111,
+     "id": "ap03-039",
+     "youtube": "a38ehxv3kyk",
+     "kind": "video"
+    },
+    {
+     "title": "What are Outliers | Outliers in Machine Learning",
+     "url": "https://www.youtube.com/watch?v=Lln1PKgGr_M",
+     "duration": 1027,
+     "id": "ap03-040",
+     "youtube": "Lln1PKgGr_M",
+     "kind": "video"
+    },
+    {
+     "title": "Outlier Detection and Removal using Z-score Method | Handling Outliers Part 2",
+     "url": "https://www.youtube.com/watch?v=OnPE-Z8jtqM",
+     "duration": 1066,
+     "id": "ap03-041",
+     "youtube": "OnPE-Z8jtqM",
+     "kind": "video"
+    },
+    {
+     "title": "Outlier Detection and Removal using the IQR Method | Handing Outliers Part 3",
+     "url": "https://www.youtube.com/watch?v=Ccv1-W5ilak",
+     "duration": 845,
+     "id": "ap03-042",
+     "youtube": "Ccv1-W5ilak",
+     "kind": "video"
+    },
+    {
+     "title": "Outlier Detection using the Percentile Method | Winsorization Technique",
+     "url": "https://www.youtube.com/watch?v=bcXA4CqRXvM",
+     "duration": 983,
+     "id": "ap03-043",
+     "youtube": "bcXA4CqRXvM",
+     "kind": "video"
+    },
+    {
+     "title": "Feature Construction | Feature Splitting",
+     "url": "https://www.youtube.com/watch?v=ma-h30PoFms",
+     "duration": 742,
+     "id": "ap03-044",
+     "youtube": "ma-h30PoFms",
+     "kind": "video"
+    },
+    {
+     "title": "Curse of Dimensionality",
+     "url": "https://www.youtube.com/watch?v=ToGuhynu-No",
+     "duration": 925,
+     "id": "ap03-045",
+     "youtube": "ToGuhynu-No",
+     "kind": "video"
+    },
+    {
+     "title": "Principle Component Analysis  (PCA) | Part 1 | Geometric Intuition",
+     "url": "https://www.youtube.com/watch?v=iRbsBi5W0-c",
+     "duration": 2034,
+     "id": "ap03-046",
+     "youtube": "iRbsBi5W0-c",
+     "kind": "video"
+    },
+    {
+     "title": "Principle Component Analysis (PCA) | Part 2 | Problem Formulation and Step by Step Solution",
+     "url": "https://www.youtube.com/watch?v=tXXnxjj2wM4",
+     "duration": 3377,
+     "id": "ap03-047",
+     "youtube": "tXXnxjj2wM4",
+     "kind": "video"
+    },
+    {
+     "title": "Principle Component Analysis(PCA) | Part 3 | Code Example and Visualization",
+     "url": "https://www.youtube.com/watch?v=tofVCUDrg4M",
+     "duration": 2606,
+     "id": "ap03-048",
+     "youtube": "tofVCUDrg4M",
+     "kind": "video"
+    },
+    {
+     "title": "Simple Linear Regression | Code + Intuition | Simplest Explanation in Hindi",
+     "url": "https://www.youtube.com/watch?v=UZPfbG0jNec",
+     "duration": 2016,
+     "id": "ap03-049",
+     "youtube": "UZPfbG0jNec",
+     "kind": "video"
+    },
+    {
+     "title": "Simple Linear Regression | Mathematical Formulation | Coding from Scratch",
+     "url": "https://www.youtube.com/watch?v=dXHIDLPKdmA",
+     "duration": 3211,
+     "id": "ap03-050",
+     "youtube": "dXHIDLPKdmA",
+     "kind": "video"
+    },
+    {
+     "title": "Regression Metrics | MSE, MAE & RMSE | R2 Score & Adjusted R2 Score",
+     "url": "https://www.youtube.com/watch?v=Ti7c-Hz7GSM",
+     "duration": 2636,
+     "id": "ap03-051",
+     "youtube": "Ti7c-Hz7GSM",
+     "kind": "video"
+    },
+    {
+     "title": "Multiple Linear Regression | Geometric Intuition & Code",
+     "url": "https://www.youtube.com/watch?v=ashGekqstl8",
+     "duration": 1257,
+     "id": "ap03-052",
+     "youtube": "ashGekqstl8",
+     "kind": "video"
+    },
+    {
+     "title": "Multiple Linear Regression | Part 2 | Mathematical Formulation From Scratch",
+     "url": "https://www.youtube.com/watch?v=NU37mF5q8VE",
+     "duration": 2891,
+     "id": "ap03-053",
+     "youtube": "NU37mF5q8VE",
+     "kind": "video"
+    },
+    {
+     "title": "Multiple Linear Regression | Part 3 | Code From Scratch",
+     "url": "https://www.youtube.com/watch?v=VmZWXzxmNrE",
+     "duration": 961,
+     "id": "ap03-054",
+     "youtube": "VmZWXzxmNrE",
+     "kind": "video"
+    },
+    {
+     "title": "What are the main Assumptions of Linear Regression? | Top 5 Assumptions of Linear Regression",
+     "url": "https://www.youtube.com/watch?v=EmSNAtcHLm8",
+     "duration": 1058,
+     "id": "ap03-055",
+     "youtube": "EmSNAtcHLm8",
+     "kind": "video"
+    },
+    {
+     "title": "Gradient Descent From Scratch | End to End Gradient Descent | Gradient Descent Animation",
+     "url": "https://www.youtube.com/watch?v=ORyfPJypKuU",
+     "duration": 7076,
+     "id": "ap03-056",
+     "youtube": "ORyfPJypKuU",
+     "kind": "video"
+    },
+    {
+     "title": "Batch Gradient Descent with Code Demo | Simple Explanation in Hindi",
+     "url": "https://www.youtube.com/watch?v=Jyo53pAyVAM",
+     "duration": 3889,
+     "id": "ap03-057",
+     "youtube": "Jyo53pAyVAM",
+     "kind": "video"
+    },
+    {
+     "title": "Stochastic Gradient Descent",
+     "url": "https://www.youtube.com/watch?v=V7KBAa_gh4c",
+     "duration": 2975,
+     "id": "ap03-058",
+     "youtube": "V7KBAa_gh4c",
+     "kind": "video"
+    },
+    {
+     "title": "Mini-Batch Gradient Descent",
+     "url": "https://www.youtube.com/watch?v=_scscQ4HVTY",
+     "duration": 1330,
+     "id": "ap03-059",
+     "youtube": "_scscQ4HVTY",
+     "kind": "video"
+    },
+    {
+     "title": "Polynomial Regression | Machine Learning",
+     "url": "https://www.youtube.com/watch?v=BNWLf3cKdbQ",
+     "duration": 1606,
+     "id": "ap03-060",
+     "youtube": "BNWLf3cKdbQ",
+     "kind": "video"
+    },
+    {
+     "title": "Bias Variance Trade-off | Overfitting and Underfitting in Machine Learning",
+     "url": "https://www.youtube.com/watch?v=74DU02Fyrhk",
+     "duration": 485,
+     "id": "ap03-061",
+     "youtube": "74DU02Fyrhk",
+     "kind": "video"
+    },
+    {
+     "title": "Ridge Regression Part 1 | Geometric Intuition and Code | Regularized Linear Models",
+     "url": "https://www.youtube.com/watch?v=aEow1QoTLo0",
+     "duration": 1198,
+     "id": "ap03-062",
+     "youtube": "aEow1QoTLo0",
+     "kind": "video"
+    },
+    {
+     "title": "Ridge Regression Part 2 | Mathematical Formulation & Code from scratch | Regularized Linear Models",
+     "url": "https://www.youtube.com/watch?v=oDlZBQjk_3A",
+     "duration": 2621,
+     "id": "ap03-063",
+     "youtube": "oDlZBQjk_3A",
+     "kind": "video"
+    },
+    {
+     "title": "Ridge Regression Part 3 | Gradient Descent | Regularized Linear Models",
+     "url": "https://www.youtube.com/watch?v=Fci_wwMp8G8",
+     "duration": 1123,
+     "id": "ap03-064",
+     "youtube": "Fci_wwMp8G8",
+     "kind": "video"
+    },
+    {
+     "title": "5 Key Points - Ridge Regression | Part 4 | Regularized Linear Models",
+     "url": "https://www.youtube.com/watch?v=8osKeShYVRQ",
+     "duration": 1817,
+     "id": "ap03-065",
+     "youtube": "8osKeShYVRQ",
+     "kind": "video"
+    },
+    {
+     "title": "Lasso Regression | Intuition and Code Sample | Regularized Linear Models",
+     "url": "https://www.youtube.com/watch?v=HLF4bFbBgwk",
+     "duration": 1717,
+     "id": "ap03-066",
+     "youtube": "HLF4bFbBgwk",
+     "kind": "video"
+    },
+    {
+     "title": "Why Lasso Regression creates sparsity?",
+     "url": "https://www.youtube.com/watch?v=FN4aZPIAfI4",
+     "duration": 1470,
+     "id": "ap03-067",
+     "youtube": "FN4aZPIAfI4",
+     "kind": "video"
+    },
+    {
+     "title": "ElasticNet Regression | Intuition and Code Example | Regularized Linear Models",
+     "url": "https://www.youtube.com/watch?v=2g2DBkFhTTY",
+     "duration": 701,
+     "id": "ap03-068",
+     "youtube": "2g2DBkFhTTY",
+     "kind": "video"
+    },
+    {
+     "title": "Logistic Regression Part 1 | Perceptron Trick",
+     "url": "https://www.youtube.com/watch?v=XNXzVfItWGY",
+     "duration": 2826,
+     "id": "ap03-069",
+     "youtube": "XNXzVfItWGY",
+     "kind": "video"
+    },
+    {
+     "title": "Logistic Regression Part 2 | Perceptron Trick Code",
+     "url": "https://www.youtube.com/watch?v=tLezwPKvPK4",
+     "duration": 1027,
+     "id": "ap03-070",
+     "youtube": "tLezwPKvPK4",
+     "kind": "video"
+    },
+    {
+     "title": "Logistic Regression Part 3 | Sigmoid Function | 100 Days of ML",
+     "url": "https://www.youtube.com/watch?v=ehO0-6i9qD4",
+     "duration": 2444,
+     "id": "ap03-071",
+     "youtube": "ehO0-6i9qD4",
+     "kind": "video"
+    },
+    {
+     "title": "Logistic Regression Part 4 | Loss Function | Maximum Likelihood | Binary Cross Entropy",
+     "url": "https://www.youtube.com/watch?v=6bXOo0sxY5c",
+     "duration": 1743,
+     "id": "ap03-072",
+     "youtube": "6bXOo0sxY5c",
+     "kind": "video"
+    },
+    {
+     "title": "Derivative of Sigmoid Function",
+     "url": "https://www.youtube.com/watch?v=awjXaFR1jOM",
+     "duration": 357,
+     "id": "ap03-073",
+     "youtube": "awjXaFR1jOM",
+     "kind": "video"
+    },
+    {
+     "title": "Logistic Regression Part 5 | Gradient Descent & Code From Scratch",
+     "url": "https://www.youtube.com/watch?v=ABrrSwMYWSg",
+     "duration": 2202,
+     "id": "ap03-074",
+     "youtube": "ABrrSwMYWSg",
+     "kind": "video"
+    },
+    {
+     "title": "Accuracy and Confusion Matrix | Type 1 and Type 2 Errors | Classification Metrics Part 1",
+     "url": "https://www.youtube.com/watch?v=c09drtuCS3c",
+     "duration": 2048,
+     "id": "ap03-075",
+     "youtube": "c09drtuCS3c",
+     "kind": "video"
+    },
+    {
+     "title": "Precision, Recall and F1 Score | Classification Metrics Part 2",
+     "url": "https://www.youtube.com/watch?v=iK-kdhJ-7yI",
+     "duration": 2562,
+     "id": "ap03-076",
+     "youtube": "iK-kdhJ-7yI",
+     "kind": "video"
+    },
+    {
+     "title": "ROC Curve in Machine Learning | ROC-AUC in Machine Learning Simplified | CampusX",
+     "url": "https://www.youtube.com/watch?v=gdW6hj9IXaA",
+     "duration": 4275,
+     "id": "ap03-077",
+     "youtube": "gdW6hj9IXaA",
+     "kind": "video"
+    },
+    {
+     "title": "Softmax Regression || Multinomial Logistic Regression || Logistic Regression Part 6",
+     "url": "https://www.youtube.com/watch?v=Z8noL_0M4tw",
+     "duration": 2301,
+     "id": "ap03-078",
+     "youtube": "Z8noL_0M4tw",
+     "kind": "video"
+    },
+    {
+     "title": "Polynomial Features in Logistic Regression | Non Linear Logistic Regression | Logistic Regression 7",
+     "url": "https://www.youtube.com/watch?v=WnBYW_DX3sM",
+     "duration": 551,
+     "id": "ap03-079",
+     "youtube": "WnBYW_DX3sM",
+     "kind": "video"
+    },
+    {
+     "title": "Logistic Regression Hyperparameters || Logistic Regression Part 8",
+     "url": "https://www.youtube.com/watch?v=ay_OcblJasE",
+     "duration": 787,
+     "id": "ap03-080",
+     "youtube": "ay_OcblJasE",
+     "kind": "video"
+    },
+    {
+     "title": "Naive Bayes Classifier | Part 1 | Conditional Probability",
+     "url": "https://www.youtube.com/watch?v=Ty7knppVo9E",
+     "duration": 566,
+     "id": "ap03-081",
+     "youtube": "Ty7knppVo9E",
+     "kind": "video"
+    },
+    {
+     "title": "Naive Bayes Classifier | Part 2 | Independent Events in Probability",
+     "url": "https://www.youtube.com/watch?v=0GD480CnrO4",
+     "duration": 479,
+     "id": "ap03-082",
+     "youtube": "0GD480CnrO4",
+     "kind": "video"
+    },
+    {
+     "title": "Naive Bayes Classifier | Part 3 | Mutually Exclusive Events",
+     "url": "https://www.youtube.com/watch?v=nneTjTYikBE",
+     "duration": 109,
+     "id": "ap03-083",
+     "youtube": "nneTjTYikBE",
+     "kind": "video"
+    },
+    {
+     "title": "Naive Bayes Classifier | Part 4 | Bayes Theorem in Probability",
+     "url": "https://www.youtube.com/watch?v=Oqw-v-Z7PuU",
+     "duration": 267,
+     "id": "ap03-084",
+     "youtube": "Oqw-v-Z7PuU",
+     "kind": "video"
+    },
+    {
+     "title": "Naive Bayes Classifier | Part 5 | Problem based upon Bayes Theorem",
+     "url": "https://www.youtube.com/watch?v=aAEHjXDHtbE",
+     "duration": 540,
+     "id": "ap03-085",
+     "youtube": "aAEHjXDHtbE",
+     "kind": "video"
+    },
+    {
+     "title": "Naive Bayes Classifier | Part 6 | Intuition",
+     "url": "https://www.youtube.com/watch?v=ZR1_QtLk_4U",
+     "duration": 884,
+     "id": "ap03-086",
+     "youtube": "ZR1_QtLk_4U",
+     "kind": "video"
+    },
+    {
+     "title": "Naive Bayes Classifier | Part 7 | Mathematics behind Naive Bayes Algorithm",
+     "url": "https://www.youtube.com/watch?v=2PVRG45eVrY",
+     "duration": 1149,
+     "id": "ap03-087",
+     "youtube": "2PVRG45eVrY",
+     "kind": "video"
+    },
+    {
+     "title": "Naive Bayes Classifier | Part 8 | Simple Example Code",
+     "url": "https://www.youtube.com/watch?v=DeeWsqoY4Eo",
+     "duration": 963,
+     "id": "ap03-088",
+     "youtube": "DeeWsqoY4Eo",
+     "kind": "video"
+    },
+    {
+     "title": "Naive Bayes Part 9 | Handling Numerical Data",
+     "url": "https://www.youtube.com/watch?v=TCgK2nBJx9o",
+     "duration": 527,
+     "id": "ap03-089",
+     "youtube": "TCgK2nBJx9o",
+     "kind": "video"
+    },
+    {
+     "title": "What is K Nearest Neighbors? | KNN Explained in Hindi | Simple Overview in 1 Video | CampusX",
+     "url": "https://www.youtube.com/watch?v=abnL_GUGub4",
+     "duration": 3121,
+     "id": "ap03-090",
+     "youtube": "abnL_GUGub4",
+     "kind": "video"
+    },
+    {
+     "title": "Support Vector Machines | Geometric Intuition",
+     "url": "https://www.youtube.com/watch?v=ugTxMLjLS8M",
+     "duration": 706,
+     "id": "ap03-091",
+     "youtube": "ugTxMLjLS8M",
+     "kind": "video"
+    },
+    {
+     "title": "Mathematics of SVM | Support Vector Machines | Hard margin SVM",
+     "url": "https://www.youtube.com/watch?v=yCAlHPDgWtM",
+     "duration": 2094,
+     "id": "ap03-092",
+     "youtube": "yCAlHPDgWtM",
+     "kind": "video"
+    },
+    {
+     "title": "Mathematics of Support Vector Machine | Soft Margin SVM",
+     "url": "https://www.youtube.com/watch?v=utqrvIFAE1k",
+     "duration": 878,
+     "id": "ap03-093",
+     "youtube": "utqrvIFAE1k",
+     "kind": "video"
+    },
+    {
+     "title": "Kernel Trick in SVM | Geometric Intuition",
+     "url": "https://www.youtube.com/watch?v=egxjT0p7_K8",
+     "duration": 378,
+     "id": "ap03-094",
+     "youtube": "egxjT0p7_K8",
+     "kind": "video"
+    },
+    {
+     "title": "Kernel Trick in SVM | Code Example",
+     "url": "https://www.youtube.com/watch?v=pjvmVMDrzVU",
+     "duration": 844,
+     "id": "ap03-095",
+     "youtube": "pjvmVMDrzVU",
+     "kind": "video"
+    },
+    {
+     "title": "Decision Trees Geometric Intuition | Entropy | Gini impurity | Information Gain",
+     "url": "https://www.youtube.com/watch?v=IZnno-dKgVQ",
+     "duration": 3509,
+     "id": "ap03-096",
+     "youtube": "IZnno-dKgVQ",
+     "kind": "video"
+    },
+    {
+     "title": "Decision Trees - Hyperparameters | Overfitting and Underfitting in Decision Trees",
+     "url": "https://www.youtube.com/watch?v=mDEV0Iucwz0",
+     "duration": 1643,
+     "id": "ap03-097",
+     "youtube": "mDEV0Iucwz0",
+     "kind": "video"
+    },
+    {
+     "title": "Regression Trees | Decision Trees Part 3",
+     "url": "https://www.youtube.com/watch?v=RANHxyAvtM4",
+     "duration": 2115,
+     "id": "ap03-098",
+     "youtube": "RANHxyAvtM4",
+     "kind": "video"
+    },
+    {
+     "title": "Awesome Decision Tree Visualization using dtreeviz library",
+     "url": "https://www.youtube.com/watch?v=SlMZqfvl5uw",
+     "duration": 1116,
+     "id": "ap03-099",
+     "youtube": "SlMZqfvl5uw",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap04",
+   "num": "04",
+   "title": "AI Path 04 - Deep Learning (100 Days of Deep Learning)",
+   "stage": "Stage 3",
+   "notebook": "13f72212-cf99-4911-b7ba-54a48ab7f3c3",
+   "optional": false,
+   "items": [
+    {
+     "title": "100 Days of Deep Learning | Course Announcement",
+     "url": "https://www.youtube.com/watch?v=2dH_qjc9mFg",
+     "duration": 1112,
+     "id": "ap04-000",
+     "youtube": "2dH_qjc9mFg",
+     "kind": "video"
+    },
+    {
+     "title": "What is Deep Learning? Deep Learning Vs Machine Learning | Complete Deep Learning Course",
+     "url": "https://www.youtube.com/watch?v=fHF22Wxuyw4",
+     "duration": 4018,
+     "id": "ap04-001",
+     "youtube": "fHF22Wxuyw4",
+     "kind": "video"
+    },
+    {
+     "title": "Types of Neural Networks | History of Deep Learning | Applications of Deep Learning",
+     "url": "https://www.youtube.com/watch?v=fne_UE7hDn0",
+     "duration": 1996,
+     "id": "ap04-002",
+     "youtube": "fne_UE7hDn0",
+     "kind": "video"
+    },
+    {
+     "title": "What is a Perceptron? Perceptron Vs Neuron | Perceptron Geometric Intuition",
+     "url": "https://www.youtube.com/watch?v=X7iIKPoZ0Sw",
+     "duration": 2314,
+     "id": "ap04-003",
+     "youtube": "X7iIKPoZ0Sw",
+     "kind": "video"
+    },
+    {
+     "title": "Perceptron Trick | How to train a Perceptron | Perceptron Part 2 |  Deep Learning Full Course",
+     "url": "https://www.youtube.com/watch?v=Lu2bruOHN6g",
+     "duration": 3105,
+     "id": "ap04-004",
+     "youtube": "Lu2bruOHN6g",
+     "kind": "video"
+    },
+    {
+     "title": "Perceptron Loss Function | Hinge Loss | Binary Cross Entropy | Sigmoid Function",
+     "url": "https://www.youtube.com/watch?v=2_gCL5RAkHc",
+     "duration": 3553,
+     "id": "ap04-005",
+     "youtube": "2_gCL5RAkHc",
+     "kind": "video"
+    },
+    {
+     "title": "Problem with Perceptron",
+     "url": "https://www.youtube.com/watch?v=Jp44b27VnOg",
+     "duration": 459,
+     "id": "ap04-006",
+     "youtube": "Jp44b27VnOg",
+     "kind": "video"
+    },
+    {
+     "title": "MLP Notation",
+     "url": "https://www.youtube.com/watch?v=H0_3SJh4Rqs",
+     "duration": 804,
+     "id": "ap04-007",
+     "youtube": "H0_3SJh4Rqs",
+     "kind": "video"
+    },
+    {
+     "title": "Multi Layer Perceptron | MLP Intuition",
+     "url": "https://www.youtube.com/watch?v=qw7wFGgNCSU",
+     "duration": 2266,
+     "id": "ap04-008",
+     "youtube": "qw7wFGgNCSU",
+     "kind": "video"
+    },
+    {
+     "title": "Forward Propagation | How a neural network predicts output?",
+     "url": "https://www.youtube.com/watch?v=7MuiScUkboE",
+     "duration": 931,
+     "id": "ap04-009",
+     "youtube": "7MuiScUkboE",
+     "kind": "video"
+    },
+    {
+     "title": "Customer Churn Prediction using ANN | Keras and Tensorflow | Deep Learning Classification",
+     "url": "https://www.youtube.com/watch?v=9wmImImmgcI",
+     "duration": 2123,
+     "id": "ap04-010",
+     "youtube": "9wmImImmgcI",
+     "kind": "video"
+    },
+    {
+     "title": "Handwritten Digit Classification using ANN | MNIST Dataset",
+     "url": "https://www.youtube.com/watch?v=3xPT2Pk0Jds",
+     "duration": 1720,
+     "id": "ap04-011",
+     "youtube": "3xPT2Pk0Jds",
+     "kind": "video"
+    },
+    {
+     "title": "Graduate Admission Prediction using ANN",
+     "url": "https://www.youtube.com/watch?v=RCmiPBiA4qg",
+     "duration": 1063,
+     "id": "ap04-012",
+     "youtube": "RCmiPBiA4qg",
+     "kind": "video"
+    },
+    {
+     "title": "Loss Functions in Deep Learning | Deep Learning | CampusX",
+     "url": "https://www.youtube.com/watch?v=gb5nm_3jBIo",
+     "duration": 3596,
+     "id": "ap04-013",
+     "youtube": "gb5nm_3jBIo",
+     "kind": "video"
+    },
+    {
+     "title": "Backpropagation in Deep Learning | Part 1 | The What?",
+     "url": "https://www.youtube.com/watch?v=6M1wWQmcUjQ",
+     "duration": 3259,
+     "id": "ap04-014",
+     "youtube": "6M1wWQmcUjQ",
+     "kind": "video"
+    },
+    {
+     "title": "Backpropagation Part 2 | The How | Complete Deep Learning Playlist",
+     "url": "https://www.youtube.com/watch?v=ma6hWrU-LaI",
+     "duration": 3596,
+     "id": "ap04-015",
+     "youtube": "ma6hWrU-LaI",
+     "kind": "video"
+    },
+    {
+     "title": "Backpropagation Part 3 | The Why | Complete Deep Learning Playlist",
+     "url": "https://www.youtube.com/watch?v=6xO-x8y0YSY",
+     "duration": 2421,
+     "id": "ap04-016",
+     "youtube": "6xO-x8y0YSY",
+     "kind": "video"
+    },
+    {
+     "title": "Vanishing Gradient Problem in ANN | Exploding Gradient Problem | Code Example",
+     "url": "https://www.youtube.com/watch?v=uCrevbBh0zM",
+     "duration": 1936,
+     "id": "ap04-017",
+     "youtube": "uCrevbBh0zM",
+     "kind": "video"
+    },
+    {
+     "title": "MLP Memoization | Complete Deep Learning Playlist",
+     "url": "https://www.youtube.com/watch?v=rW0eeTXas4k",
+     "duration": 1524,
+     "id": "ap04-018",
+     "youtube": "rW0eeTXas4k",
+     "kind": "video"
+    },
+    {
+     "title": "Gradient Descent in Neural Networks | Batch vs Stochastics vs Mini Batch Gradient Descent",
+     "url": "https://www.youtube.com/watch?v=7z6yXpYk7sw",
+     "duration": 2273,
+     "id": "ap04-019",
+     "youtube": "7z6yXpYk7sw",
+     "kind": "video"
+    },
+    {
+     "title": "How to Improve the Performance of a Neural Network",
+     "url": "https://www.youtube.com/watch?v=Ue_6n1yT_R8",
+     "duration": 1824,
+     "id": "ap04-020",
+     "youtube": "Ue_6n1yT_R8",
+     "kind": "video"
+    },
+    {
+     "title": "Early Stopping In Neural Networks | End to End Deep Learning Course",
+     "url": "https://www.youtube.com/watch?v=Ygvskt5HadI",
+     "duration": 720,
+     "id": "ap04-021",
+     "youtube": "Ygvskt5HadI",
+     "kind": "video"
+    },
+    {
+     "title": "Data Scaling in Neural Network | Feature Scaling in ANN | End to End Deep Learning Course",
+     "url": "https://www.youtube.com/watch?v=mzRO0cVppQ0",
+     "duration": 1015,
+     "id": "ap04-022",
+     "youtube": "mzRO0cVppQ0",
+     "kind": "video"
+    },
+    {
+     "title": "Dropout Layer in Deep Learning | Dropouts in ANN | End to End Deep Learning",
+     "url": "https://www.youtube.com/watch?v=gyTlcHVeBjM",
+     "duration": 1671,
+     "id": "ap04-023",
+     "youtube": "gyTlcHVeBjM",
+     "kind": "video"
+    },
+    {
+     "title": "Dropout Layers in ANN | Code Example | Regression | Classification",
+     "url": "https://www.youtube.com/watch?v=tgIx04ML7-Y",
+     "duration": 1157,
+     "id": "ap04-024",
+     "youtube": "tgIx04ML7-Y",
+     "kind": "video"
+    },
+    {
+     "title": "Regularization in Deep Learning | L2 Regularization in ANN | L1 Regularization | Weight Decay in ANN",
+     "url": "https://www.youtube.com/watch?v=4xRonrhtkzc",
+     "duration": 2157,
+     "id": "ap04-025",
+     "youtube": "4xRonrhtkzc",
+     "kind": "video"
+    },
+    {
+     "title": "Activation Functions in Deep Learning | Sigmoid, Tanh and Relu Activation Function",
+     "url": "https://www.youtube.com/watch?v=7LcUkgzx3AY",
+     "duration": 2692,
+     "id": "ap04-026",
+     "youtube": "7LcUkgzx3AY",
+     "kind": "video"
+    },
+    {
+     "title": "Relu Variants Explained | Leaky Relu | Parametric Relu | Elu | Selu | Activation Functions Part 2",
+     "url": "https://www.youtube.com/watch?v=2OwWs7Hzr9g",
+     "duration": 2005,
+     "id": "ap04-027",
+     "youtube": "2OwWs7Hzr9g",
+     "kind": "video"
+    },
+    {
+     "title": "Weight Initialization Techniques | What not to do? | Deep Learning",
+     "url": "https://www.youtube.com/watch?v=2MSY0HwH5Ss",
+     "duration": 2964,
+     "id": "ap04-028",
+     "youtube": "2MSY0HwH5Ss",
+     "kind": "video"
+    },
+    {
+     "title": "Xavier/Glorat And He Weight Initialization in Deep Learning",
+     "url": "https://www.youtube.com/watch?v=nwVOSgcrbQI",
+     "duration": 1267,
+     "id": "ap04-029",
+     "youtube": "nwVOSgcrbQI",
+     "kind": "video"
+    },
+    {
+     "title": "Batch Normalization in Deep Learning | Batch Learning in Keras",
+     "url": "https://www.youtube.com/watch?v=2AscwXePInA",
+     "duration": 2619,
+     "id": "ap04-030",
+     "youtube": "2AscwXePInA",
+     "kind": "video"
+    },
+    {
+     "title": "Optimizers in Deep Learning | Part 1 | Complete Deep Learning Course",
+     "url": "https://www.youtube.com/watch?v=iCTTnQJn50E",
+     "duration": 1354,
+     "id": "ap04-031",
+     "youtube": "iCTTnQJn50E",
+     "kind": "video"
+    },
+    {
+     "title": "Exponentially Weighted Moving Average or Exponential Weighted Average | Deep Learning",
+     "url": "https://www.youtube.com/watch?v=jAqVuYJ8TP8",
+     "duration": 1131,
+     "id": "ap04-032",
+     "youtube": "jAqVuYJ8TP8",
+     "kind": "video"
+    },
+    {
+     "title": "SGD with Momentum Explained in Detail with Animations | Optimizers in Deep Learning Part 2",
+     "url": "https://www.youtube.com/watch?v=vVS4csXRlcQ",
+     "duration": 2305,
+     "id": "ap04-033",
+     "youtube": "vVS4csXRlcQ",
+     "kind": "video"
+    },
+    {
+     "title": "Nesterov Accelerated Gradient (NAG) Explained in Detail | Animations | Optimizers in Deep Learning",
+     "url": "https://www.youtube.com/watch?v=rKG9E6rce1c",
+     "duration": 1670,
+     "id": "ap04-034",
+     "youtube": "rKG9E6rce1c",
+     "kind": "video"
+    },
+    {
+     "title": "AdaGrad Explained in Detail with Animations | Optimizers in Deep Learning Part 4",
+     "url": "https://www.youtube.com/watch?v=nqL9xYmhEpg",
+     "duration": 1589,
+     "id": "ap04-035",
+     "youtube": "nqL9xYmhEpg",
+     "kind": "video"
+    },
+    {
+     "title": "RMSProp Explained in Detail with Animations | Optimizers in Deep Learning Part 5",
+     "url": "https://www.youtube.com/watch?v=p0wSmKslWi0",
+     "duration": 758,
+     "id": "ap04-036",
+     "youtube": "p0wSmKslWi0",
+     "kind": "video"
+    },
+    {
+     "title": "Adam Optimizer Explained in Detail with Animations | Optimizers in Deep Learning Part 5",
+     "url": "https://www.youtube.com/watch?v=N5AynalXD9g",
+     "duration": 759,
+     "id": "ap04-037",
+     "youtube": "N5AynalXD9g",
+     "kind": "video"
+    },
+    {
+     "title": "Keras Tuner | Hyperparameter Tuning a Neural Network",
+     "url": "https://www.youtube.com/watch?v=oYnyNLj8RMA",
+     "duration": 3934,
+     "id": "ap04-038",
+     "youtube": "oYnyNLj8RMA",
+     "kind": "video"
+    },
+    {
+     "title": "What is Convolutional Neural Network (CNN) | CNN Intution",
+     "url": "https://www.youtube.com/watch?v=hDVFXf74P-U",
+     "duration": 1630,
+     "id": "ap04-039",
+     "youtube": "hDVFXf74P-U",
+     "kind": "video"
+    },
+    {
+     "title": "CNN Vs Visual Cortex | The Famous Cat Experiment | History of CNN",
+     "url": "https://www.youtube.com/watch?v=aslTGS9ef98",
+     "duration": 902,
+     "id": "ap04-040",
+     "youtube": "aslTGS9ef98",
+     "kind": "video"
+    },
+    {
+     "title": "CNN Part 3 | Convolution Operation",
+     "url": "https://www.youtube.com/watch?v=cgJx3GvQ5y8",
+     "duration": 1754,
+     "id": "ap04-041",
+     "youtube": "cgJx3GvQ5y8",
+     "kind": "video"
+    },
+    {
+     "title": "Padding & Strides in CNN | CNN Lecture 4 | Deep Learning",
+     "url": "https://www.youtube.com/watch?v=btWE6SsdDZA",
+     "duration": 1466,
+     "id": "ap04-042",
+     "youtube": "btWE6SsdDZA",
+     "kind": "video"
+    },
+    {
+     "title": "Pooling Layer in CNN | MaxPooling in Convolutional Neural Network",
+     "url": "https://www.youtube.com/watch?v=DwmGefkowCU",
+     "duration": 1674,
+     "id": "ap04-043",
+     "youtube": "DwmGefkowCU",
+     "kind": "video"
+    },
+    {
+     "title": "CNN Architecture | LeNet -5 Architecture",
+     "url": "https://www.youtube.com/watch?v=ewsvsJQOuTI",
+     "duration": 1200,
+     "id": "ap04-044",
+     "youtube": "ewsvsJQOuTI",
+     "kind": "video"
+    },
+    {
+     "title": "Comparing CNN Vs ANN  | CampusX",
+     "url": "https://www.youtube.com/watch?v=niE5DRKvD_E",
+     "duration": 1062,
+     "id": "ap04-045",
+     "youtube": "niE5DRKvD_E",
+     "kind": "video"
+    },
+    {
+     "title": "Backpropagation in CNN | Part 1 | Deep Learning",
+     "url": "https://www.youtube.com/watch?v=RvCCFttGFMY",
+     "duration": 2181,
+     "id": "ap04-046",
+     "youtube": "RvCCFttGFMY",
+     "kind": "video"
+    },
+    {
+     "title": "CNN Backpropagation Part 2 | How Backpropagation works on Convolution, Maxpooling and Flatten Layers",
+     "url": "https://www.youtube.com/watch?v=OoSDzOodY3Y",
+     "duration": 2607,
+     "id": "ap04-047",
+     "youtube": "OoSDzOodY3Y",
+     "kind": "video"
+    },
+    {
+     "title": "Cat Vs Dog Image Classification Project | Deep Learning Project | CNN Project",
+     "url": "https://www.youtube.com/watch?v=0K4J_PTgysc",
+     "duration": 1649,
+     "id": "ap04-048",
+     "youtube": "0K4J_PTgysc",
+     "kind": "video"
+    },
+    {
+     "title": "Data Augmentation in Deep Learning | CNN",
+     "url": "https://www.youtube.com/watch?v=sM2C-SsREgM",
+     "duration": 1609,
+     "id": "ap04-049",
+     "youtube": "sM2C-SsREgM",
+     "kind": "video"
+    },
+    {
+     "title": "Pretrained models in CNN | ImageNET Dataset | ILSVRC | Keras Code",
+     "url": "https://www.youtube.com/watch?v=0MVXteg7TB4",
+     "duration": 1468,
+     "id": "ap04-050",
+     "youtube": "0MVXteg7TB4",
+     "kind": "video"
+    },
+    {
+     "title": "What does a CNN see? | Visualizing CNN Filters and Feature Maps | CampusX",
+     "url": "https://www.youtube.com/watch?v=WJysB1RK2vM",
+     "duration": 783,
+     "id": "ap04-051",
+     "youtube": "WJysB1RK2vM",
+     "kind": "video"
+    },
+    {
+     "title": "What is Transfer Learning? Transfer Learning in Keras | Fine Tuning Vs Feature Extraction",
+     "url": "https://www.youtube.com/watch?v=WWcgHjuKVqA",
+     "duration": 2033,
+     "id": "ap04-052",
+     "youtube": "WWcgHjuKVqA",
+     "kind": "video"
+    },
+    {
+     "title": "Keras Functional Model | How to build non-linear Neural Networks?",
+     "url": "https://www.youtube.com/watch?v=OvQQP1QVru8",
+     "duration": 1538,
+     "id": "ap04-053",
+     "youtube": "OvQQP1QVru8",
+     "kind": "video"
+    },
+    {
+     "title": "Why RNNs are needed | RNNs Vs ANNs | RNN Part 1",
+     "url": "https://www.youtube.com/watch?v=4KpRP-YUw6c",
+     "duration": 1819,
+     "id": "ap04-054",
+     "youtube": "4KpRP-YUw6c",
+     "kind": "video"
+    },
+    {
+     "title": "Recurrent Neural Network | Forward Propagation | Architecture",
+     "url": "https://www.youtube.com/watch?v=BjWqCcbusMM",
+     "duration": 2504,
+     "id": "ap04-055",
+     "youtube": "BjWqCcbusMM",
+     "kind": "video"
+    },
+    {
+     "title": "RNN Sentiment Analysis | RNN Code Example in Keras | CampusX",
+     "url": "https://www.youtube.com/watch?v=JgnbwKnHMZQ",
+     "duration": 2217,
+     "id": "ap04-056",
+     "youtube": "JgnbwKnHMZQ",
+     "kind": "video"
+    },
+    {
+     "title": "Types of RNN | Many to Many | One to Many | Many to One RNNs",
+     "url": "https://www.youtube.com/watch?v=TkOBxzhIySg",
+     "duration": 1340,
+     "id": "ap04-057",
+     "youtube": "TkOBxzhIySg",
+     "kind": "video"
+    },
+    {
+     "title": "How Backpropagation works in RNN | Backpropagation Through Time",
+     "url": "https://www.youtube.com/watch?v=OvCz1acvt-k",
+     "duration": 2038,
+     "id": "ap04-058",
+     "youtube": "OvCz1acvt-k",
+     "kind": "video"
+    },
+    {
+     "title": "Problems with RNN | 100 Days of Deep Learning",
+     "url": "https://www.youtube.com/watch?v=AWHSZzp96kM",
+     "duration": 1938,
+     "id": "ap04-059",
+     "youtube": "AWHSZzp96kM",
+     "kind": "video"
+    },
+    {
+     "title": "LSTM | Long Short Term Memory | Part 1 | The What? | CampusX",
+     "url": "https://www.youtube.com/watch?v=z7IPBg6MyrU",
+     "duration": 2538,
+     "id": "ap04-060",
+     "youtube": "z7IPBg6MyrU",
+     "kind": "video"
+    },
+    {
+     "title": "LSTM Architecture | Part 2 | The How? | CampusX",
+     "url": "https://www.youtube.com/watch?v=Akv3poqqwI4",
+     "duration": 4213,
+     "id": "ap04-061",
+     "youtube": "Akv3poqqwI4",
+     "kind": "video"
+    },
+    {
+     "title": "LSTM | Part 3 | Next Word Predictor Using | CampusX",
+     "url": "https://www.youtube.com/watch?v=fiqo6uPCJVI",
+     "duration": 3605,
+     "id": "ap04-062",
+     "youtube": "fiqo6uPCJVI",
+     "kind": "video"
+    },
+    {
+     "title": "Gated Recurrent Unit | Deep Learning | GRU | CampusX",
+     "url": "https://www.youtube.com/watch?v=QQfZAoNGQmE",
+     "duration": 5182,
+     "id": "ap04-063",
+     "youtube": "QQfZAoNGQmE",
+     "kind": "video"
+    },
+    {
+     "title": "Deep RNNs | Stacked RNNs | Stacked LSTMs | Stacked GRUs | CampusX",
+     "url": "https://www.youtube.com/watch?v=mlDkTrlLaio",
+     "duration": 2708,
+     "id": "ap04-064",
+     "youtube": "mlDkTrlLaio",
+     "kind": "video"
+    },
+    {
+     "title": "Bidirectional RNN | BiLSTM | Bidirectional LSTM | Bidirectional GRU",
+     "url": "https://www.youtube.com/watch?v=k2NSm3MNdYg",
+     "duration": 1541,
+     "id": "ap04-065",
+     "youtube": "k2NSm3MNdYg",
+     "kind": "video"
+    },
+    {
+     "title": "The Epic History of Large Language Models (LLMs) | From LSTMs to ChatGPT | CampusX",
+     "url": "https://www.youtube.com/watch?v=8fX3rOjTloc",
+     "duration": 5226,
+     "id": "ap04-066",
+     "youtube": "8fX3rOjTloc",
+     "kind": "video"
+    },
+    {
+     "title": "Encoder Decoder | Sequence-to-Sequence Architecture | Deep Learning | CampusX",
+     "url": "https://www.youtube.com/watch?v=KiL74WsgxoA",
+     "duration": 4422,
+     "id": "ap04-067",
+     "youtube": "KiL74WsgxoA",
+     "kind": "video"
+    },
+    {
+     "title": "Attention Mechanism in 1 video | Seq2Seq Networks | Encoder Decoder Architecture",
+     "url": "https://www.youtube.com/watch?v=rj5V6q6-XUM",
+     "duration": 2484,
+     "id": "ap04-068",
+     "youtube": "rj5V6q6-XUM",
+     "kind": "video"
+    },
+    {
+     "title": "Bahdanau Attention Vs Luong Attention",
+     "url": "https://www.youtube.com/watch?v=0hZT4_fHfNQ",
+     "duration": 3153,
+     "id": "ap04-069",
+     "youtube": "0hZT4_fHfNQ",
+     "kind": "video"
+    },
+    {
+     "title": "Introduction to Transformers | Transformers Part 1",
+     "url": "https://www.youtube.com/watch?v=BjRVS2wTtcA",
+     "duration": 3605,
+     "id": "ap04-070",
+     "youtube": "BjRVS2wTtcA",
+     "kind": "video"
+    },
+    {
+     "title": "What is Self Attention | Transformers Part 2 | CampusX",
+     "url": "https://www.youtube.com/watch?v=XnGGmvpDLA0",
+     "duration": 1401,
+     "id": "ap04-071",
+     "youtube": "XnGGmvpDLA0",
+     "kind": "video"
+    },
+    {
+     "title": "Self Attention in Transformers | Deep Learning | Simple Explanation with Code!",
+     "url": "https://www.youtube.com/watch?v=-tCKPl_8Xb8",
+     "duration": 5004,
+     "id": "ap04-072",
+     "youtube": "-tCKPl_8Xb8",
+     "kind": "video"
+    },
+    {
+     "title": "Scaled Dot Product Attention | Why do we scale Self Attention?",
+     "url": "https://www.youtube.com/watch?v=r7mAt0iVqwo",
+     "duration": 3042,
+     "id": "ap04-073",
+     "youtube": "r7mAt0iVqwo",
+     "kind": "video"
+    },
+    {
+     "title": "Self Attention Geometric Intuition | How to Visualize Self Attention | CampusX",
+     "url": "https://www.youtube.com/watch?v=5ZgGuujZSbs",
+     "duration": 1252,
+     "id": "ap04-074",
+     "youtube": "5ZgGuujZSbs",
+     "kind": "video"
+    },
+    {
+     "title": "Why is Self Attention called \"Self\"? | Self Attention Vs Luong Attention in Depth Lecture | CampusX",
+     "url": "https://www.youtube.com/watch?v=o4ZVA0TuDRg",
+     "duration": 1355,
+     "id": "ap04-075",
+     "youtube": "o4ZVA0TuDRg",
+     "kind": "video"
+    },
+    {
+     "title": "What is Multi-head Attention in Transformers | Multi-head Attention v Self Attention | Deep Learning",
+     "url": "https://www.youtube.com/watch?v=bX2QwpjsmuA",
+     "duration": 2307,
+     "id": "ap04-076",
+     "youtube": "bX2QwpjsmuA",
+     "kind": "video"
+    },
+    {
+     "title": "Positional Encoding in Transformers | Deep Learning | CampusX",
+     "url": "https://www.youtube.com/watch?v=GeoQBNNqIbM",
+     "duration": 4395,
+     "id": "ap04-077",
+     "youtube": "GeoQBNNqIbM",
+     "kind": "video"
+    },
+    {
+     "title": "Layer Normalization in Transformers | Layer Norm Vs Batch Norm",
+     "url": "https://www.youtube.com/watch?v=qti0QPdaelg",
+     "duration": 2817,
+     "id": "ap04-078",
+     "youtube": "qti0QPdaelg",
+     "kind": "video"
+    },
+    {
+     "title": "Transformer Architecture | Part 1 Encoder Architecture | CampusX",
+     "url": "https://www.youtube.com/watch?v=Vs87qcdm8l0",
+     "duration": 3298,
+     "id": "ap04-079",
+     "youtube": "Vs87qcdm8l0",
+     "kind": "video"
+    },
+    {
+     "title": "Masked Self Attention | Masked Multi-head Attention in Transformer | Transformer Decoder",
+     "url": "https://www.youtube.com/watch?v=m6onaKFzF94",
+     "duration": 3654,
+     "id": "ap04-080",
+     "youtube": "m6onaKFzF94",
+     "kind": "video"
+    },
+    {
+     "title": "Cross Attention in Transformers | 100 Days Of Deep Learning | CampusX",
+     "url": "https://www.youtube.com/watch?v=smOnJtCevoU",
+     "duration": 2047,
+     "id": "ap04-081",
+     "youtube": "smOnJtCevoU",
+     "kind": "video"
+    },
+    {
+     "title": "Transformer Decoder Architecture | Deep Learning | CampusX",
+     "url": "https://www.youtube.com/watch?v=DI2_hrAulYo",
+     "duration": 2906,
+     "id": "ap04-082",
+     "youtube": "DI2_hrAulYo",
+     "kind": "video"
+    },
+    {
+     "title": "Transformer Inference | How Inference is done in Transformer? | Deep Learning | CampusX",
+     "url": "https://www.youtube.com/watch?v=FtsMOzlwxws",
+     "duration": 2712,
+     "id": "ap04-083",
+     "youtube": "FtsMOzlwxws",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap06",
+   "num": "06",
+   "title": "AI Path 06 - NLP and Transformer Architecture",
+   "stage": "Stage 4",
+   "notebook": "ca9b7ca1-fe2b-4551-a3c1-b1690dcf115e",
+   "optional": false,
+   "items": [
+    {
+     "title": "Complete Transformers For NLP Deep Learning One Shot With Handwritten Notes",
+     "url": "https://www.youtube.com/watch?v=3bPhDUSAUYI",
+     "duration": 18088,
+     "id": "ap06-000",
+     "youtube": "3bPhDUSAUYI",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap11",
+   "num": "11",
+   "title": "AI Path 11 - Build GPT from Scratch (Karpathy)",
+   "stage": "Stage 4",
+   "notebook": "ed3eb21d-718f-4bdf-97f6-1c90f07432bb",
+   "optional": false,
+   "items": [
+    {
+     "title": "Let's build GPT: from scratch, in code, spelled out.",
+     "url": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+     "duration": 6980,
+     "id": "ap11-000",
+     "youtube": "kCc8FmEb1nY",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap05",
+   "num": "05",
+   "title": "AI Path 05 - Generative AI using LangChain",
+   "stage": "Stage 5",
+   "notebook": "a18c4579-e27e-4212-93a1-8e4692de5e31",
+   "optional": false,
+   "items": [
+    {
+     "title": "GenAI Roadmap for Beginners | End-to-End GenAI Course 2025 | CampusX",
+     "url": "https://www.youtube.com/watch?v=pSVk-5WemQ0",
+     "duration": 3015,
+     "id": "ap05-000",
+     "youtube": "pSVk-5WemQ0",
+     "kind": "video"
+    },
+    {
+     "title": "Generative AI using LangChain | GENAI for Beginners | CampusX",
+     "url": "https://www.youtube.com/watch?v=_3ezSpJw2E8",
+     "duration": 919,
+     "id": "ap05-001",
+     "youtube": "_3ezSpJw2E8",
+     "kind": "video"
+    },
+    {
+     "title": "Introduction to LangChain | LangChain for Beginners | Video 1 | CampusX",
+     "url": "https://www.youtube.com/watch?v=nlz9j-r0U9U",
+     "duration": 2264,
+     "id": "ap05-002",
+     "youtube": "nlz9j-r0U9U",
+     "kind": "video"
+    },
+    {
+     "title": "LangChain Components | GenAI using LangChain | Video 2 | CampusX",
+     "url": "https://www.youtube.com/watch?v=-xSJA8-o6Eg",
+     "duration": 3204,
+     "id": "ap05-003",
+     "youtube": "-xSJA8-o6Eg",
+     "kind": "video"
+    },
+    {
+     "title": "LangChain Models | Indepth Tutorial with Code Demo | Video 3 | CampusX",
+     "url": "https://www.youtube.com/watch?v=HdcLE8JuMrA",
+     "duration": 6123,
+     "id": "ap05-004",
+     "youtube": "HdcLE8JuMrA",
+     "kind": "video"
+    },
+    {
+     "title": "Prompts in LangChain | Generative AI using LangChain | Video 4 | CampusX",
+     "url": "https://www.youtube.com/watch?v=3TGqlQxpuU0",
+     "duration": 4713,
+     "id": "ap05-005",
+     "youtube": "3TGqlQxpuU0",
+     "kind": "video"
+    },
+    {
+     "title": "Structured Output in LangChain | Generative AI using LangChain | Video 5 | CampusX",
+     "url": "https://www.youtube.com/watch?v=y5EmRr1O1h4",
+     "duration": 4093,
+     "id": "ap05-006",
+     "youtube": "y5EmRr1O1h4",
+     "kind": "video"
+    },
+    {
+     "title": "Output Parsers in LangChain | Generative AI using LangChain | Video 6 | CampusX",
+     "url": "https://www.youtube.com/watch?v=Op6PbJZ5b2Q",
+     "duration": 3193,
+     "id": "ap05-007",
+     "youtube": "Op6PbJZ5b2Q",
+     "kind": "video"
+    },
+    {
+     "title": "Chains in LangChain | Generative AI using LangChain | Video 7 | CampusX",
+     "url": "https://www.youtube.com/watch?v=5hjrPILA3-8",
+     "duration": 3241,
+     "id": "ap05-008",
+     "youtube": "5hjrPILA3-8",
+     "kind": "video"
+    },
+    {
+     "title": "What are Runnables in LangChain | Generative AI using LangChain | Video 8 | CampusX",
+     "url": "https://www.youtube.com/watch?v=u3b-W1NgYa4",
+     "duration": 4582,
+     "id": "ap05-009",
+     "youtube": "u3b-W1NgYa4",
+     "kind": "video"
+    },
+    {
+     "title": "Langchain Runnables - Part 2 | Generative AI using LangChain | Video 9 | CampusX",
+     "url": "https://www.youtube.com/watch?v=47nc0n-e4_w",
+     "duration": 3266,
+     "id": "ap05-010",
+     "youtube": "47nc0n-e4_w",
+     "kind": "video"
+    },
+    {
+     "title": "Document Loaders in LangChain |  Generative AI using LangChain | Video 10 | CampusX",
+     "url": "https://www.youtube.com/watch?v=bL92ALSZ2Cg",
+     "duration": 3404,
+     "id": "ap05-011",
+     "youtube": "bL92ALSZ2Cg",
+     "kind": "video"
+    },
+    {
+     "title": "Text Splitters in LangChain | Generative AI using LangChain | Video 11 | CampusX",
+     "url": "https://www.youtube.com/watch?v=SEWS9P4ODmc",
+     "duration": 3541,
+     "id": "ap05-012",
+     "youtube": "SEWS9P4ODmc",
+     "kind": "video"
+    },
+    {
+     "title": "Vector Stores in LangChain | Generative AI using LangChain | Video 12 | CampusX",
+     "url": "https://www.youtube.com/watch?v=k13WK0bxQP0",
+     "duration": 3031,
+     "id": "ap05-013",
+     "youtube": "k13WK0bxQP0",
+     "kind": "video"
+    },
+    {
+     "title": "Retrievers in LangChain | Generative AI using LangChain | Video 13 | CampusX",
+     "url": "https://www.youtube.com/watch?v=pJdMxwXBsk0",
+     "duration": 3070,
+     "id": "ap05-014",
+     "youtube": "pJdMxwXBsk0",
+     "kind": "video"
+    },
+    {
+     "title": "Retrieval Augmented Generation | What is RAG | How does RAG Work | RAG Explained | CampusX",
+     "url": "https://www.youtube.com/watch?v=X0btK9X0Xnk",
+     "duration": 3564,
+     "id": "ap05-015",
+     "youtube": "X0btK9X0Xnk",
+     "kind": "video"
+    },
+    {
+     "title": "YouTube Chatbot using LangChain | Building a RAG system in LangChain  | Video 15 | CampusX",
+     "url": "https://www.youtube.com/watch?v=J5_-l7WIO_w",
+     "duration": 2775,
+     "id": "ap05-016",
+     "youtube": "J5_-l7WIO_w",
+     "kind": "video"
+    },
+    {
+     "title": "Tools in LangChain | Generative AI using LangChain | Video 16 | CampusX",
+     "url": "https://www.youtube.com/watch?v=etnLX7m2MiA",
+     "duration": 2716,
+     "id": "ap05-017",
+     "youtube": "etnLX7m2MiA",
+     "kind": "video"
+    },
+    {
+     "title": "Tool Calling in LangChain | Generative AI using LangChain | Video 17 | CampusX",
+     "url": "https://www.youtube.com/watch?v=EzYaFF7ahKw",
+     "duration": 3527,
+     "id": "ap05-018",
+     "youtube": "EzYaFF7ahKw",
+     "kind": "video"
+    },
+    {
+     "title": "Building end-to-end AI Agent in LangChain | Generative AI using LangChain | Video 18 | CampusX",
+     "url": "https://www.youtube.com/watch?v=gm_lQG8fYjI",
+     "duration": 4367,
+     "id": "ap05-019",
+     "youtube": "gm_lQG8fYjI",
+     "kind": "video"
+    },
+    {
+     "title": "Ollama Masterclass 2026: Run Powerful Local LLMs with Ollama (3-Hour Full Course) | CampusX",
+     "url": "https://www.youtube.com/watch?v=YcAYmIFtA0o",
+     "duration": 10181,
+     "id": "ap05-020",
+     "youtube": "YcAYmIFtA0o",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap12",
+   "num": "12",
+   "title": "AI Path 12 - RAG Explained",
+   "stage": "Stage 5",
+   "notebook": "09ff73fb-01cc-4642-a68f-9e2988f4b654",
+   "optional": false,
+   "items": [
+    {
+     "title": "Retrieval Augmented Generation | What is RAG | How does RAG Work | RAG Explained | CampusX",
+     "url": "https://www.youtube.com/watch?v=X0btK9X0Xnk",
+     "duration": 3564,
+     "id": "ap12-000",
+     "youtube": "X0btK9X0Xnk",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap13",
+   "num": "13",
+   "title": "AI Path 13 - Top 10 RAG Frameworks on GitHub (blog)",
+   "stage": "Stage 5",
+   "notebook": "7b27b185-71a0-4add-9d19-881e46acb7c7",
+   "optional": false,
+   "items": [
+    {
+     "title": "Top 10 RAG Frameworks on GitHub (blog)",
+     "url": "https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91",
+     "duration": 0,
+     "id": "ap13-000",
+     "youtube": null,
+     "kind": "read"
+    }
+   ]
+  },
+  {
+   "id": "ap07",
+   "num": "07",
+   "title": "AI Path 07 - Agentic AI using LangGraph",
+   "stage": "Stage 5",
+   "notebook": "7aa7f7e4-7984-42a7-8e64-944c94f22d47",
+   "optional": false,
+   "items": [
+    {
+     "title": "Agentic AI using LangGraph | New Playlist | LangGraph Tutorial",
+     "url": "https://www.youtube.com/watch?v=yC36gN-rqjo",
+     "duration": 1018,
+     "id": "ap07-000",
+     "youtube": "yC36gN-rqjo",
+     "kind": "video"
+    },
+    {
+     "title": "Generative AI vs Agentic AI | Agentic AI using LangGraph | Video 1 | CampusX",
+     "url": "https://www.youtube.com/watch?v=xdA0pGDiUPE",
+     "duration": 3764,
+     "id": "ap07-001",
+     "youtube": "xdA0pGDiUPE",
+     "kind": "video"
+    },
+    {
+     "title": "What is Agentic AI? | Agentic AI using LangGraph | Video 2 | CampusX",
+     "url": "https://www.youtube.com/watch?v=GWnSsjT4V68",
+     "duration": 3625,
+     "id": "ap07-002",
+     "youtube": "GWnSsjT4V68",
+     "kind": "video"
+    },
+    {
+     "title": "LangChain Vs LangGraph | Agentic AI using LangGraph | Video 3 | CampusX",
+     "url": "https://www.youtube.com/watch?v=31qyMKNB2RA",
+     "duration": 5249,
+     "id": "ap07-003",
+     "youtube": "31qyMKNB2RA",
+     "kind": "video"
+    },
+    {
+     "title": "LangGraph Core Concepts | Agentic AI using LangGraph | Video 4 | CampusX",
+     "url": "https://www.youtube.com/watch?v=D5KhiCDM9XQ",
+     "duration": 3112,
+     "id": "ap07-004",
+     "youtube": "D5KhiCDM9XQ",
+     "kind": "video"
+    },
+    {
+     "title": "Sequential Workflows in LangGraph | Agentic AI using LangGraph | Video 5 | CampusX",
+     "url": "https://www.youtube.com/watch?v=bAWujyAl1Kk",
+     "duration": 2953,
+     "id": "ap07-005",
+     "youtube": "bAWujyAl1Kk",
+     "kind": "video"
+    },
+    {
+     "title": "Parallel Workflows in LangGraph | Agentic AI using LangGraph | Video 6 | CampusX",
+     "url": "https://www.youtube.com/watch?v=O6ryuSpqdOw",
+     "duration": 3569,
+     "id": "ap07-006",
+     "youtube": "O6ryuSpqdOw",
+     "kind": "video"
+    },
+    {
+     "title": "Conditional Workflows in LangGraph | Agentic AI using LangGraph | Video 7 | CampusX",
+     "url": "https://www.youtube.com/watch?v=I-dvZqTz-Wc",
+     "duration": 2858,
+     "id": "ap07-007",
+     "youtube": "I-dvZqTz-Wc",
+     "kind": "video"
+    },
+    {
+     "title": "Iterative Workflows in LangGraph | Agentic AI using LangGraph | Video 8 | CampusX",
+     "url": "https://www.youtube.com/watch?v=7CbSqrovcsE",
+     "duration": 2234,
+     "id": "ap07-008",
+     "youtube": "7CbSqrovcsE",
+     "kind": "video"
+    },
+    {
+     "title": "How to build a Chatbot using LangGraph",
+     "url": "https://www.youtube.com/watch?v=51Ve2tE3Zns",
+     "duration": 2198,
+     "id": "ap07-009",
+     "youtube": "51Ve2tE3Zns",
+     "kind": "video"
+    },
+    {
+     "title": "Persistence in LangGraph | Time Travel in LangGraph | CampusX",
+     "url": "https://www.youtube.com/watch?v=_IPP7_Bi8uA",
+     "duration": 3494,
+     "id": "ap07-010",
+     "youtube": "_IPP7_Bi8uA",
+     "kind": "video"
+    },
+    {
+     "title": "Building a Chatbot with UI in LangGraph & Streamlit | CampusX",
+     "url": "https://www.youtube.com/watch?v=voZAgDmO-rk",
+     "duration": 1948,
+     "id": "ap07-011",
+     "youtube": "voZAgDmO-rk",
+     "kind": "video"
+    },
+    {
+     "title": "Streaming in LangGraph | CampusX",
+     "url": "https://www.youtube.com/watch?v=D1PcZaeQ2eg",
+     "duration": 1500,
+     "id": "ap07-012",
+     "youtube": "D1PcZaeQ2eg",
+     "kind": "video"
+    },
+    {
+     "title": "How to build a Resume Chat feature like ChatGPT? | CampusX",
+     "url": "https://www.youtube.com/watch?v=N2nVG2MGWJ8",
+     "duration": 2380,
+     "id": "ap07-013",
+     "youtube": "N2nVG2MGWJ8",
+     "kind": "video"
+    },
+    {
+     "title": "LangGraph + SQLite | Chatbot with Database Integration | CampusX",
+     "url": "https://www.youtube.com/watch?v=c6a47iX5JkU",
+     "duration": 1728,
+     "id": "ap07-014",
+     "youtube": "c6a47iX5JkU",
+     "kind": "video"
+    },
+    {
+     "title": "LangSmith Crash Course | LangSmith Tutorial for Beginners | Observability in GenAI | CampusX",
+     "url": "https://www.youtube.com/watch?v=4FFspU4riHk",
+     "duration": 7660,
+     "id": "ap07-015",
+     "youtube": "4FFspU4riHk",
+     "kind": "video"
+    },
+    {
+     "title": "Observability in LangGraph | LangSmith Integration with LangGraph",
+     "url": "https://www.youtube.com/watch?v=ikzN6byFNWw",
+     "duration": 1300,
+     "id": "ap07-016",
+     "youtube": "ikzN6byFNWw",
+     "kind": "video"
+    },
+    {
+     "title": "Tools in LangGraph | Agentic AI using LangGraph | CampusX",
+     "url": "https://www.youtube.com/watch?v=_UuUigoM9MA",
+     "duration": 2060,
+     "id": "ap07-017",
+     "youtube": "_UuUigoM9MA",
+     "kind": "video"
+    },
+    {
+     "title": "How to build MCP Client using LangGraph | Agentic AI using LangGraph | CampusX",
+     "url": "https://www.youtube.com/watch?v=yZGjVA4uDc4",
+     "duration": 2671,
+     "id": "ap07-018",
+     "youtube": "yZGjVA4uDc4",
+     "kind": "video"
+    },
+    {
+     "title": "RAG using LangGraph | Agentic AI using LangGraph | CampusX",
+     "url": "https://www.youtube.com/watch?v=E1qP9Xsnmik",
+     "duration": 2232,
+     "id": "ap07-019",
+     "youtube": "E1qP9Xsnmik",
+     "kind": "video"
+    },
+    {
+     "title": "Human in the loop (HITL) using LangGraph | CampusX",
+     "url": "https://www.youtube.com/watch?v=xxqZzVZ4gE0",
+     "duration": 2404,
+     "id": "ap07-020",
+     "youtube": "xxqZzVZ4gE0",
+     "kind": "video"
+    },
+    {
+     "title": "How to build Subgraphs in LangGraph",
+     "url": "https://www.youtube.com/watch?v=wcHcocpAoX4",
+     "duration": 1367,
+     "id": "ap07-021",
+     "youtube": "wcHcocpAoX4",
+     "kind": "video"
+    },
+    {
+     "title": "LLMs Don’t Have Memory — So How Do They Remember?",
+     "url": "https://www.youtube.com/watch?v=DcPKJrOF9Wo",
+     "duration": 3464,
+     "id": "ap07-022",
+     "youtube": "DcPKJrOF9Wo",
+     "kind": "video"
+    },
+    {
+     "title": "How To Implement Short Term Memory Using LangGraph",
+     "url": "https://www.youtube.com/watch?v=FSBkTI1QuvY",
+     "duration": 3166,
+     "id": "ap07-023",
+     "youtube": "FSBkTI1QuvY",
+     "kind": "video"
+    },
+    {
+     "title": "Long Term Memory in LangGraph",
+     "url": "https://www.youtube.com/watch?v=KrXBcokM3Tc",
+     "duration": 3935,
+     "id": "ap07-024",
+     "youtube": "KrXBcokM3Tc",
+     "kind": "video"
+    },
+    {
+     "title": "This AI Agent Plans, Researches & Writes Blogs Automatically using LangGraph | Agentic AI Project",
+     "url": "https://www.youtube.com/watch?v=Ou_v9lk0rxg",
+     "duration": 4804,
+     "id": "ap07-025",
+     "youtube": "Ou_v9lk0rxg",
+     "kind": "video"
+    },
+    {
+     "title": "Advanced RAG: How Corrective RAG (CRAG) Solves Traditional RAG Problems | CampusX",
+     "url": "https://www.youtube.com/watch?v=41XDn81nR5c",
+     "duration": 4509,
+     "id": "ap07-026",
+     "youtube": "41XDn81nR5c",
+     "kind": "video"
+    },
+    {
+     "title": "Self-RAG Tutorial: How to Make Your AI Fact-Check Itself | Advanced RAG | CampusX",
+     "url": "https://www.youtube.com/watch?v=BbO_XaEjzaA",
+     "duration": 4120,
+     "id": "ap07-027",
+     "youtube": "BbO_XaEjzaA",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap10",
+   "num": "10",
+   "title": "AI Path 10 - Model Context Protocol",
+   "stage": "Stage 5",
+   "notebook": "54d9044c-e5fa-4ebe-876d-abcd9ff3eab4",
+   "optional": false,
+   "items": [
+    {
+     "title": "Model Context Protocol | Mini Playlist | MCP Trilogy | CampusX",
+     "url": "https://www.youtube.com/watch?v=3_TN1i3MTEU",
+     "duration": 2227,
+     "id": "ap10-000",
+     "youtube": "3_TN1i3MTEU",
+     "kind": "video"
+    },
+    {
+     "title": "Model Context Protocol - The Why | MCP Trilogy | CampusX",
+     "url": "https://www.youtube.com/watch?v=Zmy439spZB4",
+     "duration": 3121,
+     "id": "ap10-001",
+     "youtube": "Zmy439spZB4",
+     "kind": "video"
+    },
+    {
+     "title": "MCP Architecture | Model Context Protocol Architecture | CampusX",
+     "url": "https://www.youtube.com/watch?v=nQa31xdXbGk",
+     "duration": 4629,
+     "id": "ap10-002",
+     "youtube": "nQa31xdXbGk",
+     "kind": "video"
+    },
+    {
+     "title": "The MCP Lifecycle | MCP Trilogy | CampusX",
+     "url": "https://www.youtube.com/watch?v=sBHeMcxupmE",
+     "duration": 3305,
+     "id": "ap10-003",
+     "youtube": "sBHeMcxupmE",
+     "kind": "video"
+    },
+    {
+     "title": "Model Context Protocol | The How | How to connect MCP Servers to Claude Desktop | CampusX",
+     "url": "https://www.youtube.com/watch?v=y-uPv3ltOTY",
+     "duration": 2777,
+     "id": "ap10-004",
+     "youtube": "y-uPv3ltOTY",
+     "kind": "video"
+    },
+    {
+     "title": "How to Build Local MCP Servers | MCP Trilogy | CampusX",
+     "url": "https://www.youtube.com/watch?v=tc2oOznpdE0",
+     "duration": 4331,
+     "id": "ap10-005",
+     "youtube": "tc2oOznpdE0",
+     "kind": "video"
+    },
+    {
+     "title": "How to Build & Deploy Remote MCP Servers | MCP Trilogy | CampusX",
+     "url": "https://www.youtube.com/watch?v=GF7-ZzUausU",
+     "duration": 2749,
+     "id": "ap10-006",
+     "youtube": "GF7-ZzUausU",
+     "kind": "video"
+    },
+    {
+     "title": "How to build MCP Clients | MCP Trilogy | CampusX",
+     "url": "https://www.youtube.com/watch?v=o4ajsc-tSBc",
+     "duration": 2400,
+     "id": "ap10-007",
+     "youtube": "o4ajsc-tSBc",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap09",
+   "num": "09",
+   "title": "AI Path 09 - Agentic Coding with Claude Code",
+   "stage": "Stage 5",
+   "notebook": "48635ea6-e444-41a6-a03a-353a9d3d0e5d",
+   "optional": false,
+   "items": [
+    {
+     "title": "Learn AI Coding the Right Way (No Vibe Coding) | New Playlist | CampusX",
+     "url": "https://www.youtube.com/watch?v=K_KIQA849cs",
+     "duration": 1014,
+     "id": "ap09-000",
+     "youtube": "K_KIQA849cs",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap14",
+   "num": "14",
+   "title": "AI Path 14 - FastAPI for Machine Learning (CampusX)",
+   "stage": "Stage 5",
+   "notebook": "e763494f-f04d-4396-9399-d38593be9cfd",
+   "optional": false,
+   "items": [
+    {
+     "title": "What is an API? | Introduction to APIs | FAST API for Machine Learning | CampusX",
+     "url": "https://www.youtube.com/watch?v=WJKsPchji0Q",
+     "duration": 2797,
+     "id": "ap14-000",
+     "youtube": "WJKsPchji0Q",
+     "kind": "video"
+    },
+    {
+     "title": "FastAPI Philosophy | How to setup FastAPI | Installation and Code Demo | Video 2 | CampusX",
+     "url": "https://www.youtube.com/watch?v=lXx-_1r0Uss",
+     "duration": 2527,
+     "id": "ap14-001",
+     "youtube": "lXx-_1r0Uss",
+     "kind": "video"
+    },
+    {
+     "title": "HTTP Methods in FastAPI | Video 3 | CampusX",
+     "url": "https://www.youtube.com/watch?v=O8KrViWNhOM",
+     "duration": 1621,
+     "id": "ap14-002",
+     "youtube": "O8KrViWNhOM",
+     "kind": "video"
+    },
+    {
+     "title": "Path & Query Params in FastAPI | Video 4 | CampusX",
+     "url": "https://www.youtube.com/watch?v=VVVKEfhXCQ4",
+     "duration": 2472,
+     "id": "ap14-003",
+     "youtube": "VVVKEfhXCQ4",
+     "kind": "video"
+    },
+    {
+     "title": "Pydantic Crash Course | Data Validation in Python | CampusX",
+     "url": "https://www.youtube.com/watch?v=lRArylZCeOs",
+     "duration": 5131,
+     "id": "ap14-004",
+     "youtube": "lRArylZCeOs",
+     "kind": "video"
+    },
+    {
+     "title": "Post Request in FastAPI | What is Request Body? | Video 5 | CampusX",
+     "url": "https://www.youtube.com/watch?v=sw8V7mLl3OI",
+     "duration": 2142,
+     "id": "ap14-005",
+     "youtube": "sw8V7mLl3OI",
+     "kind": "video"
+    },
+    {
+     "title": "PUT & DELETE in FastAPI | Video 6 | CampusX",
+     "url": "https://www.youtube.com/watch?v=XVu22pTwWE8",
+     "duration": 1871,
+     "id": "ap14-006",
+     "youtube": "XVu22pTwWE8",
+     "kind": "video"
+    },
+    {
+     "title": "Serving ML Models with FastAPI | Video 7 | CampusX",
+     "url": "https://www.youtube.com/watch?v=JdDoMi_vqbM",
+     "duration": 2797,
+     "id": "ap14-007",
+     "youtube": "JdDoMi_vqbM",
+     "kind": "video"
+    },
+    {
+     "title": "Improving the FastAPI API | Video 8 | CampusX",
+     "url": "https://www.youtube.com/watch?v=M17qwKnmG38",
+     "duration": 2435,
+     "id": "ap14-008",
+     "youtube": "M17qwKnmG38",
+     "kind": "video"
+    },
+    {
+     "title": "Docker for Machine Learning | Docker Crash Course | CampusX",
+     "url": "https://www.youtube.com/watch?v=GToyQTGDOS4",
+     "duration": 5205,
+     "id": "ap14-009",
+     "youtube": "GToyQTGDOS4",
+     "kind": "video"
+    },
+    {
+     "title": "FastAPI + Docker Tutorial for Beginners | How to Dockerize a FastAPI API Application | CampusX",
+     "url": "https://www.youtube.com/watch?v=jlLs6hfAga4",
+     "duration": 1162,
+     "id": "ap14-010",
+     "youtube": "jlLs6hfAga4",
+     "kind": "video"
+    },
+    {
+     "title": "How to Deploy a FastAPI API on AWS | Video 10 | CampusX",
+     "url": "https://www.youtube.com/watch?v=X0lnToYN21k",
+     "duration": 1138,
+     "id": "ap14-011",
+     "youtube": "X0lnToYN21k",
+     "kind": "video"
+    },
+    {
+     "title": "FastAPI Course Launch",
+     "url": "https://www.youtube.com/watch?v=VjPrWc0NQP0",
+     "duration": 742,
+     "id": "ap14-012",
+     "youtube": "VjPrWc0NQP0",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap15",
+   "num": "15",
+   "title": "AI Path 15 - LLM Evaluation",
+   "stage": "Stage 5",
+   "notebook": "14e00616-583d-4f38-8480-532ba798a058",
+   "optional": false,
+   "items": [
+    {
+     "title": "Master LLM Evaluations: The Step-by-Step Playlist for 2026 | New Playlist | CampusX",
+     "url": "https://www.youtube.com/watch?v=6W92_t9FveA",
+     "duration": 1404,
+     "id": "ap15-000",
+     "youtube": "6W92_t9FveA",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap16",
+   "num": "16",
+   "title": "AI Path 16 - LLMOps",
+   "stage": "Production",
+   "notebook": "48e399a3-c4f5-4a7c-b196-5f1f419fa900",
+   "optional": false,
+   "items": [
+    {
+     "title": "LLM Ops Foundation: Building & Scaling Generative AI Systems in Production",
+     "url": "https://www.youtube.com/watch?v=NuWRAiYnjxw",
+     "duration": 539,
+     "id": "ap16-000",
+     "youtube": "NuWRAiYnjxw",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap17",
+   "num": "17",
+   "title": "AI Path 17 - LLM Gateway with LiteLLM",
+   "stage": "Production",
+   "notebook": "212a86f1-1795-4e2d-9b40-2819cfff6636",
+   "optional": false,
+   "items": [
+    {
+     "title": "What Are LLM Gateways With Detailed Implementation",
+     "url": "https://www.youtube.com/watch?v=RN3baOpNA6w",
+     "duration": 2609,
+     "id": "ap17-000",
+     "youtube": "RN3baOpNA6w",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap18",
+   "num": "18",
+   "title": "AI Path 18 - LLM Gateway with Mesh API",
+   "stage": "Production",
+   "notebook": "ac6c8074-0ea5-4244-93f0-bd3ec9397eaf",
+   "optional": false,
+   "items": [
+    {
+     "title": "Complete AI LLM Gateway Crash Course With Mesh API",
+     "url": "https://www.youtube.com/watch?v=yAczx0_NtyU",
+     "duration": 7184,
+     "id": "ap18-000",
+     "youtube": "yAczx0_NtyU",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap19",
+   "num": "19",
+   "title": "AI Path 19 - AI Guardrails and Security",
+   "stage": "Production",
+   "notebook": "ddf5abd0-aac8-4b0a-9347-d80d81ee32f2",
+   "optional": false,
+   "items": [
+    {
+     "title": "The Complete AI Security Course In 8 Hours-AI Guardrails, LLM Evals & Memory And AgentOps",
+     "url": "https://www.youtube.com/watch?v=rQE3w8Qjx98",
+     "duration": 28118,
+     "id": "ap19-000",
+     "youtube": "rQE3w8Qjx98",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap20",
+   "num": "20",
+   "title": "AI Path 20 - Tracing and Observability with Arize AI",
+   "stage": "Production",
+   "notebook": "d35d16f6-3f1f-4dea-96b1-f11550c7c4a3",
+   "optional": false,
+   "items": [
+    {
+     "title": "Ultimate OpenTelemetry Guide for Tracing AI Applications",
+     "url": "https://www.youtube.com/watch?v=fHGSxOhWO-g",
+     "duration": 4745,
+     "id": "ap20-000",
+     "youtube": "fHGSxOhWO-g",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap21",
+   "num": "21",
+   "title": "AI Path 21 - Loop Engineering and Harness Engineering",
+   "stage": "Production",
+   "notebook": "a00358fa-a5eb-4b53-b93d-696bff4db69c",
+   "optional": false,
+   "items": [
+    {
+     "title": "Loop Engineering And Harness Engineering Crash Course",
+     "url": "https://www.youtube.com/watch?v=3uO6V05LBjU",
+     "duration": 12925,
+     "id": "ap21-000",
+     "youtube": "3uO6V05LBjU",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap08",
+   "num": "08",
+   "title": "AI Path 08 - Practical AI Projects",
+   "stage": "Production",
+   "notebook": "abd54ecc-cb28-428f-a13d-b52d374974a6",
+   "optional": false,
+   "items": [
+    {
+     "title": "AI Agent for Tracking Daily Water Intake | Agentic AI Project | Euron",
+     "url": "https://www.youtube.com/watch?v=pEiq3sI8dYQ",
+     "duration": 3689,
+     "id": "ap08-000",
+     "youtube": "pEiq3sI8dYQ",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap22",
+   "num": "22",
+   "title": "AI Path 22 - Forward Deployed Engineer Roadmap",
+   "stage": "Career",
+   "notebook": "79d1cddc-f9aa-4855-88bd-a46595415f56",
+   "optional": false,
+   "items": [
+    {
+     "title": "Forward Deployed Engineer (FDE) Roadmap in 20 Minutes",
+     "url": "https://www.youtube.com/watch?v=SOU28VT-Ns4",
+     "duration": 1271,
+     "id": "ap22-000",
+     "youtube": "SOU28VT-Ns4",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap23",
+   "num": "23",
+   "title": "AI Path 23 - GCP Zero to Hero",
+   "stage": "Cloud (pick one)",
+   "notebook": "99d751b9-44c4-4473-8b99-e50faea72ac8",
+   "optional": false,
+   "items": [
+    {
+     "title": "GCP Zero to Hero Series by Abhishek Veeramalla | Free Course",
+     "url": "https://www.youtube.com/watch?v=N5rXROueKhw",
+     "duration": 1182,
+     "id": "ap23-000",
+     "youtube": "N5rXROueKhw",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap24",
+   "num": "24",
+   "title": "AI Path 24 - Azure Zero to Hero",
+   "stage": "Cloud (pick one)",
+   "notebook": "00b43790-e4ee-4c6d-8572-fafa2dff5598",
+   "optional": false,
+   "items": [
+    {
+     "title": "Day-0 | Azure Zero to Hero Course Syllabus| Azure Job and Certification Ready Course| AZ-900| AZ-104",
+     "url": "https://www.youtube.com/watch?v=10jm7Waan8M",
+     "duration": 1906,
+     "id": "ap24-000",
+     "youtube": "10jm7Waan8M",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap25",
+   "num": "25",
+   "title": "AI Path 25 - AWS Zero to Hero",
+   "stage": "Cloud (pick one)",
+   "notebook": "b0dd7e69-14f1-4b54-8ae9-3aad51ec042f",
+   "optional": false,
+   "items": [
+    {
+     "title": "Day-0 | Course Details | Free AWS Zero to Hero Course for DevOps Engineers #devops #aws #interview",
+     "url": "https://www.youtube.com/watch?v=GkKNxyLp_V0",
+     "duration": 1442,
+     "id": "ap25-000",
+     "youtube": "GkKNxyLp_V0",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap01",
+   "num": "01",
+   "title": "AI Path 01 - Python (100 Days of Python)",
+   "stage": "Stage 1 backup (Hindi)",
+   "notebook": "8b16b3bc-821f-4ab6-9000-ba5006e8f34b",
+   "optional": true,
+   "items": [
+    {
+     "title": "Print Function in Python | 100 Days of Python Programming",
+     "url": "https://www.youtube.com/watch?v=u1RKh1kQqaE",
+     "duration": 424,
+     "id": "ap01-000",
+     "youtube": "u1RKh1kQqaE",
+     "kind": "video"
+    },
+    {
+     "title": "Data Types in Python | 100 Days of Python Programming",
+     "url": "https://www.youtube.com/watch?v=NQ0JI5IKggI",
+     "duration": 479,
+     "id": "ap01-001",
+     "youtube": "NQ0JI5IKggI",
+     "kind": "video"
+    },
+    {
+     "title": "Comments in Python | 100 Days of Python Programming",
+     "url": "https://www.youtube.com/watch?v=JAigPIhUIM8",
+     "duration": 188,
+     "id": "ap01-002",
+     "youtube": "JAigPIhUIM8",
+     "kind": "video"
+    },
+    {
+     "title": "Variables in Python | Dynamic Typing | Dynamic Binding in Python",
+     "url": "https://www.youtube.com/watch?v=_pNx8uEmHI0",
+     "duration": 617,
+     "id": "ap01-003",
+     "youtube": "_pNx8uEmHI0",
+     "kind": "video"
+    },
+    {
+     "title": "Keywords and Identifiers in Python",
+     "url": "https://www.youtube.com/watch?v=QmSL27U7RDc",
+     "duration": 507,
+     "id": "ap01-004",
+     "youtube": "QmSL27U7RDc",
+     "kind": "video"
+    },
+    {
+     "title": "Taking user input in Python | The input function",
+     "url": "https://www.youtube.com/watch?v=15sdH57DtsU",
+     "duration": 625,
+     "id": "ap01-005",
+     "youtube": "15sdH57DtsU",
+     "kind": "video"
+    },
+    {
+     "title": "Type Conversion in Python",
+     "url": "https://www.youtube.com/watch?v=YjLFP8pW764",
+     "duration": 504,
+     "id": "ap01-006",
+     "youtube": "YjLFP8pW764",
+     "kind": "video"
+    },
+    {
+     "title": "Literals in Python | 100 Days of Python Programming",
+     "url": "https://www.youtube.com/watch?v=u6UpEKy_ocM",
+     "duration": 589,
+     "id": "ap01-007",
+     "youtube": "u6UpEKy_ocM",
+     "kind": "video"
+    },
+    {
+     "title": "Operators in Python | 100 Days of Python Programming",
+     "url": "https://www.youtube.com/watch?v=cPmiugHYvSI",
+     "duration": 931,
+     "id": "ap01-008",
+     "youtube": "cPmiugHYvSI",
+     "kind": "video"
+    },
+    {
+     "title": "If-else Statements in Python | Nested If-else | Day 7 | 100 Days of Python Programming",
+     "url": "https://www.youtube.com/watch?v=EHxqc8Vy3H8",
+     "duration": 802,
+     "id": "ap01-009",
+     "youtube": "EHxqc8Vy3H8",
+     "kind": "video"
+    },
+    {
+     "title": "Indentation in Python | Day 7 | 100 Days of Python Programming",
+     "url": "https://www.youtube.com/watch?v=PbpuN5yI68o",
+     "duration": 548,
+     "id": "ap01-010",
+     "youtube": "PbpuN5yI68o",
+     "kind": "video"
+    },
+    {
+     "title": "While Loop in Python | Day 8 | 100 Days of Python Programming",
+     "url": "https://www.youtube.com/watch?v=fGckTEH5DPI",
+     "duration": 669,
+     "id": "ap01-011",
+     "youtube": "fGckTEH5DPI",
+     "kind": "video"
+    },
+    {
+     "title": "Guessing Game in Python",
+     "url": "https://www.youtube.com/watch?v=Ai4fEP-QKSI",
+     "duration": 562,
+     "id": "ap01-012",
+     "youtube": "Ai4fEP-QKSI",
+     "kind": "video"
+    },
+    {
+     "title": "For Loop In Python",
+     "url": "https://www.youtube.com/watch?v=mMCelsWjfac",
+     "duration": 578,
+     "id": "ap01-013",
+     "youtube": "mMCelsWjfac",
+     "kind": "video"
+    },
+    {
+     "title": "Nested Loops in Python",
+     "url": "https://www.youtube.com/watch?v=QU3zhcSBWKU",
+     "duration": 411,
+     "id": "ap01-014",
+     "youtube": "QU3zhcSBWKU",
+     "kind": "video"
+    },
+    {
+     "title": "Break, Continue and Pass Statements in Python",
+     "url": "https://www.youtube.com/watch?v=lgs_o6mDzdU",
+     "duration": 458,
+     "id": "ap01-015",
+     "youtube": "lgs_o6mDzdU",
+     "kind": "video"
+    },
+    {
+     "title": "Built-in Functions in Python",
+     "url": "https://www.youtube.com/watch?v=hCMnJT14XTw",
+     "duration": 641,
+     "id": "ap01-016",
+     "youtube": "hCMnJT14XTw",
+     "kind": "video"
+    },
+    {
+     "title": "Built-in Modules in Python | How to use Modules in Python",
+     "url": "https://www.youtube.com/watch?v=sM5-_9bJgdw",
+     "duration": 615,
+     "id": "ap01-017",
+     "youtube": "sM5-_9bJgdw",
+     "kind": "video"
+    },
+    {
+     "title": "Strings in Python | Part 1",
+     "url": "https://www.youtube.com/watch?v=cNy9Pc35fRw",
+     "duration": 418,
+     "id": "ap01-018",
+     "youtube": "cNy9Pc35fRw",
+     "kind": "video"
+    },
+    {
+     "title": "Accessing Substrings from a String | Indexing and Slicing in Python Strings | Part 2",
+     "url": "https://www.youtube.com/watch?v=ue1dZQKKLM8",
+     "duration": 631,
+     "id": "ap01-019",
+     "youtube": "ue1dZQKKLM8",
+     "kind": "video"
+    },
+    {
+     "title": "Editing and Deleting Strings in Python | Part 3",
+     "url": "https://www.youtube.com/watch?v=DZmJxCEfkCs",
+     "duration": 298,
+     "id": "ap01-020",
+     "youtube": "DZmJxCEfkCs",
+     "kind": "video"
+    },
+    {
+     "title": "String Operations in Python | Part 4",
+     "url": "https://www.youtube.com/watch?v=Hc-Dwy35DRQ",
+     "duration": 516,
+     "id": "ap01-021",
+     "youtube": "Hc-Dwy35DRQ",
+     "kind": "video"
+    },
+    {
+     "title": "String Functions in Python | Part 5",
+     "url": "https://www.youtube.com/watch?v=iMToFoTl2Z8",
+     "duration": 1147,
+     "id": "ap01-022",
+     "youtube": "iMToFoTl2Z8",
+     "kind": "video"
+    },
+    {
+     "title": "Python Lists | Complete Explanation in Hindi |  100 Days of Python Programing",
+     "url": "https://www.youtube.com/watch?v=l0rgITwCXKg",
+     "duration": 2028,
+     "id": "ap01-023",
+     "youtube": "l0rgITwCXKg",
+     "kind": "video"
+    },
+    {
+     "title": "Python Tuples | Complete Explanation in Hindi | 100 Days of Python Programming",
+     "url": "https://www.youtube.com/watch?v=-ePqwviZx4I",
+     "duration": 735,
+     "id": "ap01-024",
+     "youtube": "-ePqwviZx4I",
+     "kind": "video"
+    },
+    {
+     "title": "Python Sets  | Complete Explanation in Hindi | 100 Days of Python Programming",
+     "url": "https://www.youtube.com/watch?v=XPDzwN1aXAQ",
+     "duration": 1085,
+     "id": "ap01-025",
+     "youtube": "XPDzwN1aXAQ",
+     "kind": "video"
+    },
+    {
+     "title": "Python Dictionary | Complete Explanation in Hindi | 100 Days of Python Programming",
+     "url": "https://www.youtube.com/watch?v=39FONNQb-vc",
+     "duration": 1049,
+     "id": "ap01-026",
+     "youtube": "39FONNQb-vc",
+     "kind": "video"
+    },
+    {
+     "title": "Python Deep Dive | Mutability | Garbage Collection | Variable Referencing",
+     "url": "https://www.youtube.com/watch?v=GaJ_LmHd0E8",
+     "duration": 3090,
+     "id": "ap01-027",
+     "youtube": "GaJ_LmHd0E8",
+     "kind": "video"
+    },
+    {
+     "title": "Functions in Python | End to End Video | Complete Video",
+     "url": "https://www.youtube.com/watch?v=XTVP2gS6ftk",
+     "duration": 3815,
+     "id": "ap01-028",
+     "youtube": "XTVP2gS6ftk",
+     "kind": "video"
+    },
+    {
+     "title": "Recursion using Python | Recursion with examples | Memoization",
+     "url": "https://www.youtube.com/watch?v=cNvZK0Wyoik",
+     "duration": 2707,
+     "id": "ap01-029",
+     "youtube": "cNvZK0Wyoik",
+     "kind": "video"
+    },
+    {
+     "title": "Lambda Functions in Python | Map, Filter and Reduce | Higher Order Functions in Python",
+     "url": "https://www.youtube.com/watch?v=ww2uPkwSjjY",
+     "duration": 2098,
+     "id": "ap01-030",
+     "youtube": "ww2uPkwSjjY",
+     "kind": "video"
+    },
+    {
+     "title": "Complete OOP in Python in 1 Video | End to End OOP in Python in 4 hours",
+     "url": "https://www.youtube.com/watch?v=Mf2RdpEiXjU",
+     "duration": 14578,
+     "id": "ap01-031",
+     "youtube": "Mf2RdpEiXjU",
+     "kind": "video"
+    },
+    {
+     "title": "100 Python Problems with Solutions for Beginners | Most Common Python Programs for Practice",
+     "url": "https://www.youtube.com/watch?v=szkZ1DwABUs",
+     "duration": 413,
+     "id": "ap01-032",
+     "youtube": "szkZ1DwABUs",
+     "kind": "video"
+    },
+    {
+     "title": "Threading | Threading and Multi Processing in Python Part 1",
+     "url": "https://www.youtube.com/watch?v=Vdz0usYmSsU",
+     "duration": 1152,
+     "id": "ap01-033",
+     "youtube": "Vdz0usYmSsU",
+     "kind": "video"
+    },
+    {
+     "title": "What is Iterators in Python?",
+     "url": "https://www.youtube.com/watch?v=pH7YVRhnpUI",
+     "duration": 2289,
+     "id": "ap01-034",
+     "youtube": "pH7YVRhnpUI",
+     "kind": "video"
+    },
+    {
+     "title": "Generators in Python | Advanced Python Programming",
+     "url": "https://www.youtube.com/watch?v=ZfJoU67tG1A",
+     "duration": 1493,
+     "id": "ap01-035",
+     "youtube": "ZfJoU67tG1A",
+     "kind": "video"
+    },
+    {
+     "title": "Build GUIs Using Python | Python Tkinter in 30 mins | Login App GUI",
+     "url": "https://www.youtube.com/watch?v=D0xVD8eUk4o",
+     "duration": 1704,
+     "id": "ap01-036",
+     "youtube": "D0xVD8eUk4o",
+     "kind": "video"
+    },
+    {
+     "title": "Wallpaper Viewer Application using Python | Tkinter GUI Tutorial | Mini Project",
+     "url": "https://www.youtube.com/watch?v=vjh0Cqudqa0",
+     "duration": 806,
+     "id": "ap01-037",
+     "youtube": "vjh0Cqudqa0",
+     "kind": "video"
+    },
+    {
+     "title": "Calculator GUI Application using Python | Tkinter Tutorial | Python Mini Project",
+     "url": "https://www.youtube.com/watch?v=owbU6WzIhhg",
+     "duration": 1782,
+     "id": "ap01-038",
+     "youtube": "owbU6WzIhhg",
+     "kind": "video"
+    },
+    {
+     "title": "News Application in Python | Inshorts Clone using Python | GUI + OOP + API Tutorial in Python",
+     "url": "https://www.youtube.com/watch?v=b-YBvPmCTew",
+     "duration": 2066,
+     "id": "ap01-039",
+     "youtube": "b-YBvPmCTew",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "id": "ap02",
+   "num": "02",
+   "title": "AI Path 02 - Data Analyst Bootcamp (SQL, Power BI, Python, Excel)",
+   "stage": "Optional side skill",
+   "notebook": "64862532-95d7-41ae-b2a5-0ace05a8905b",
+   "optional": true,
+   "items": [
+    {
+     "title": "Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more)",
+     "url": "https://www.youtube.com/watch?v=PSNXoAs2FtQ",
+     "duration": 69826,
+     "id": "ap02-000",
+     "youtube": "PSNXoAs2FtQ",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

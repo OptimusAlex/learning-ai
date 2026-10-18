@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My AI Cohort</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header>
+  <div class="brand">My AI Cohort</div>
+  <div class="stats">
+    <span id="streak" title="Days in a row">🔥 0 days</span>
+    <span id="minutes" title="Minutes studied today">⏱ 0 min today</span>
+    <span id="date"></span>
+  </div>
+</header>
+
+<main>
+  <section class="today card">
+    <div class="eyebrow"><span id="day-label"></span> · <span id="day-hint"></span></div>
+    <h1 id="item-title">Loading…</h1>
+    <div class="meta"><span id="course-title"></span> · <span id="item-pos"></span></div>
+
+    <div id="start-wrap">
+      <button id="start" class="primary big">▶ Start today</button>
+    </div>
+    <div id="player-wrap" hidden>
+      <div id="player"></div>
+    </div>
+    <div id="read-wrap" hidden>
+      <p>This item is an article. Read it, then mark it done.</p>
+      <a id="read-link" class="button" target="_blank" rel="noopener">Open the article</a>
+    </div>
+    <div id="embed-error" class="note" hidden>
+      This video can't play inside the app. <a id="yt-link" target="_blank" rel="noopener">Open it on YouTube at your saved time</a>.
+    </div>
+
+    <div class="actions">
+      <button id="prev">◀ Previous</button>
+      <button id="mark">✓ Mark done</button>
+      <button id="next">Next ▶</button>
+      <span class="spacer"></span>
+      <button id="quiz-btn" class="accent">? Quiz me</button>
+      <button id="journal-btn">✎ Journal</button>
+      <button id="finish-btn" class="primary">⬆ Finish for today</button>
+    </div>
+    <div id="toast" class="toast" hidden></div>
+  </section>
+
+  <section id="quiz" class="card" hidden>
+    <div class="row"><h2>Quiz</h2><span class="spacer"></span><button id="quiz-close">Close</button></div>
+    <div id="quiz-body"></div>
+  </section>
+
+  <section id="journal" class="card" hidden>
+    <div class="row"><h2>Journal</h2><span class="spacer"></span><button id="journal-close">Close</button></div>
+    <label>What I did<textarea id="j-did" rows="2" placeholder="Watched lecture 0 to 45:00, wrote hello.py"></textarea></label>
+    <label>What confused me<textarea id="j-confused" rows="2" placeholder="f-strings vs. concatenation"></textarea></label>
+    <label>Next<textarea id="j-next" rows="2" placeholder="Finish lecture 0"></textarea></label>
+    <button id="j-save" class="primary">Save to LEARNING.md</button>
+  </section>
+
+  <div class="grid">
+    <section class="card">
+      <h2>Current course</h2>
+      <div id="current"></div>
+      <h3>Weak spots</h3>
+      <ul id="weak" class="plain"></ul>
+      <h3>Recent quizzes</h3>
+      <ul id="recent" class="plain"></ul>
+      <h3>Last 28 days</h3>
+      <div id="heat" class="heat"></div>
+    </section>
+
+    <section class="card">
+      <div class="row"><h2>All courses</h2><span class="spacer"></span>
+        <label class="inline"><input type="checkbox" id="show-optional"> show optional</label></div>
+      <ul id="courses" class="courses"></ul>
+    </section>
+  </div>
+
+  <section id="items" class="card" hidden>
+    <div class="row"><h2 id="items-title"></h2><span class="spacer"></span>
+      <button id="skip-course">Skip this course</button>
+      <button id="items-close">Close</button></div>
+    <ol id="items-list" class="items"></ol>
+  </section>
+</main>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="/static/app.js"></script>
+</body>
+</html>
