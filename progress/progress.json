@@ -1,0 +1,71 @@
+{
+    "current_course":  "cs50p",
+    "selected_item":  "cs50p-000",
+    "items":  {
+                  "cs50p-002":  {
+                                    "position":  3
+                                },
+                  "cs50p-003":  {
+                                    "position":  1
+                                },
+                  "cs50p-004":  {
+                                    "position":  1
+                                },
+                  "cs50p-005":  {
+                                    "position":  1
+                                },
+                  "cs50p-006":  {
+                                    "position":  1
+                                },
+                  "cs50p-007":  {
+                                    "position":  0
+                                },
+                  "cs50p-008":  {
+                                    "position":  0
+                                },
+                  "cs50p-009":  {
+                                    "position":  15
+                                },
+                  "cs50ai-000":  {
+                                     "position":  8
+                                 },
+                  "ap03-000":  {
+                                   "position":  15
+                               },
+                  "ap08-000":  {
+                                   "position":  55
+                               }
+              },
+    "days":  {
+                 "2026-10-18":  {
+                                    "seconds":  94.38900000000001,
+                                    "items":  [
+                                                  "cs50p-002",
+                                                  "cs50p-003",
+                                                  "cs50p-004",
+                                                  "cs50p-005",
+                                                  "cs50p-006",
+                                                  "cs50p-007",
+                                                  "cs50p-008",
+                                                  "cs50p-009",
+                                                  "cs50ai-000",
+                                                  "ap03-000",
+                                                  "ap08-000"
+                                              ]
+                                }
+             },
+    "courses":  {
+                    "cs50p":  {
+                                  "started":  "2026-10-18"
+                              },
+                    "cs50ai":  {
+                                   "started":  "2026-10-18"
+                               },
+                    "ap03":  {
+                                 "started":  "2026-10-18"
+                             },
+                    "ap08":  {
+                                 "started":  "2026-10-18"
+                             }
+                }
+}
